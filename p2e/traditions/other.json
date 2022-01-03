@@ -1,0 +1,70 @@
+[
+  {
+    "count": 1,
+    "title": "Bullhorn",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Auditory Cantrip Illusion",
+      "rule",
+      "property | Casting | [AA] S, V | Targets | All listeners",
+      "property | Range | 500 feet | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'>Your voice can be heard easily at a great distance - by all listeners within 500 feet, even if other ambient noise woulld otherwise block the sound. Physical barriers such as walls and doors still block or muffle your voice.",
+      "text | <span style='font-size:8px'>You gain a (+1) status bonus to checks to <span style='font-weight: bold'>Coerce</span> and auditory Performance checks to <span style='font-weight: bold'>Perform</span> at a large venue. You can Dismiss the spell.",
+      "text | <span style='font-size:8px'>You can Dismiss the spell.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Range: 1,200 feet.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  Range: 1 mile."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Haunting Hymn",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Area | 15-foot cone",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'>You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  Damage increased by 1d6"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Join Pasts",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "rule",
+      "property | Casting | [A] S",
+      "property | Range | touch",
+      "property | Targets | 2 willing creatures",
+      "property | Duration | 1 round",
+      "rule",
+      "text | <span style='font-size:8px'>With touches to the targets' foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to <span style='text-decoration: underline'>Recall Knowledge</span>, the other can <span style='text-decoration: underline'>Aid</span> the first target's skill check, using any <span style='text-decoration: underline'>Lore</span> skill (even if that Lore wouldn't normally apply) without having made any preparations to Aid."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Friendfetch",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Uncommon Evocation Force",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 or 2 willing creatures",
+      "rule",
+      "text | <span style='font-size:8px'>You shoot out ephemeral, telekinetic strands that drag each target directly toward you, stopping in the closest unoccupied space to you in this path. This is <span style='text-decoration: underline'>forced movement</span>."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

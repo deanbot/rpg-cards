@@ -1,0 +1,212 @@
+[
+  {
+    "count": 1,
+    "title": "Bless",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Enchantment Mental",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Targets | you and allies in the area",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Area 5-foot emanation; Targets you and allies in the area; Duration 1 minute",
+      "text | <span style='font-size:8px'> Blessings from beyond help your companions strike true.",
+      "text | <span style='font-size:8px'> You and your allies in the area gain a +1 status bonus to attack rolls. Once per turn, starting the turn after you cast bless, you can use a single action, which has the concentrate trait, to increase the emanation’s radius by 5 feet. Bless can counteract bane."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Soothe",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Emotion Ench Healing Mental",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 willing living creature",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You grace the target’s mind, boosting its mental defenses and Healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against mental effects for the duration.",
+      "text | <span style='font-size:8px'> Heightened (+1) The amount of healing increases by 1d10+4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Mage Hand",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation",
+      "rule",
+      "property | Casting | [AA] S, V | Range | 30 feet",
+      "property | Targets | 1 unattended object of light Bulk or less",
+      "property | Duration | sustained",
+      "rule",
+      "text | <span style='font-size:8px'> You create a single magical hand, either invisible or ghostlike, that grasps the target object and moves it slowly up to 20 feet. Because you're levitating the object, you can move it in any direction. When you Sustain the Spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  Bulk of 1 or less.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Range 60 feet",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  Bulk of 2 or less."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Read Aura",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Detection Divination",
+      "rule",
+      "property | Casting | 1 minute (S, V)",
+      "property | Range | 30 feet",
+      "property | Targets | 1 object",
+      "rule",
+      "text | <span style='font-size:8px'> You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic.",
+      "text | <span style='font-size:8px'> If the object is illusory, you detect this only if the effect’s level is lower than the level of your read aura spell.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can target up to 10 objects.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  You can target any number of objects."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Bullhorn",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Auditory Cantrip Illusion",
+      "rule",
+      "property | Casting | [AA] S, V | Targets | All listeners",
+      "property | Range | 500 feet | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'>Your voice can be heard easily at a great distance - by all listeners within 500 feet, even if other ambient noise woulld otherwise block the sound. Physical barriers such as walls and doors still block or muffle your voice.",
+      "text | <span style='font-size:8px'>You gain a (+1) status bonus to checks to <span style='font-weight: bold'>Coerce</span> and auditory Performance checks to <span style='font-weight: bold'>Perform</span> at a large venue. You can Dismiss the spell.",
+      "text | <span style='font-size:8px'>You can Dismiss the spell.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Range: 1,200 feet.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  Range: 1 mile."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Haunting Hymn",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Area | 15-foot cone",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'>You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  Damage increased by 1d6"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Join Pasts",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Divination Mental",
+      "rule",
+      "property | Casting | [A] S",
+      "property | Range | touch",
+      "property | Targets | 2 willing creatures",
+      "property | Duration | 1 round",
+      "rule",
+      "text | <span style='font-size:8px'>With touches to the targets' foreheads, you bring them into mental communion. The targets can share thoughts and experiences, but not words. When one target attempts to <span style='text-decoration: underline'>Recall Knowledge</span>, the other can <span style='text-decoration: underline'>Aid</span> the first target's skill check, using any <span style='text-decoration: underline'>Lore</span> skill (even if that Lore wouldn't normally apply) without having made any preparations to Aid.",
+      "description | <span style='font-size:8px'> Heightened (1st) | <span style='font-size:8px'>  You can touch one additional target to include them in the spell’s effects. Multiple targets can attempt checks to Aid the target who is attempting to Recall Knowledge."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Friendfetch",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Evocation Force",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 or 2 willing creatures",
+      "rule",
+      "text | <span style='font-size:8px'>You shoot out ephemeral, telekinetic strands that drag each target directly toward you, stopping in the closest unoccupied space to you in this path. This is <span style='text-decoration: underline'>forced movement</span>."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Message",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Aud Cant Illu Ling Ment",
+      "rule",
+      "property | Casting | [A] V | Range | 120 feet",
+      "property | Targets | 1 creature | Duration | see below",
+      "rule",
+      "text | <span style='font-size:8px'> You mouth words quietly, but instead of coming out of your mouth, they're transferred directly to the ears of the target.",
+      "text | <span style='font-size:8px'> While others can't hear your words any better than if you normally mouthed them, the target can hear your words as if they were standing next to you. The target can give a brief response as a reaction, or as a free action on their next turn if they wish, but they must be able to see you and be within range to do so. If they respond, their response is delivered directly to your ear, just like the original message.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The spell's range increases to 500 feet."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Counter Performance",
+    "contents": [
+      "subtitle | Composition Focus Spell 1",
+      "subtitle | Bard Comp Ench Fort Ment",
+      "rule",
+      "property | Casting/Reaction | S or V",
+      "property | Area | 60-foot emanation",
+      "rule",
+      "text | <span style='font-size:8px'><span style'font-weight:bold'>Trigger</span>: You or an ally within 60 feet rolls a saving throw against an auditory or visual effect.",
+      "text | <span style='font-size:8px'>Your performance protects you and your allies. Roll a Performance check for a type you know: an auditory performance if the trigger was auditory, or a visual one for a visual trigger. You and allies in the area can use the better result between your Performance check and the saving throw."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Inspire Courage",
+    "contents": [
+      "subtitle | Composition Cantrip 1",
+      "subtitle | Bard Comp Ench Emot Ment",
+      "rule",
+      "property | Cast | [A] V",
+      "property | Area | 60-foot emanation",
+      "property | Duration | 1 round",
+      "rule",
+      "text | <span style='font-size:8px'>You inspire your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Lingering Composition",
+    "contents": [
+      "subtitle | Composition Focus Spell 1",
+      "subtitle | Bard Enchantment",
+      "rule",
+      "property | Cast | [A] V",
+      "rule",
+      "text | <span style='font-size:8px'>You add a flourish to your composition to extend its benefits. If your next action is to cast a cantrip composition with a duration of 1 round, attempt a Performance check. The DC is usually a standard-difficulty DC of a level equal to the highest‑level target of your composition, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.",
+      "description | <span style='font-size:8px'> Critical Success | <span style='font-size:8px'>  The composition lasts 4 rounds.",
+      "description | <span style='font-size:8px'> Success | <span style='font-size:8px'>  The composition lasts 3 rounds.",
+      "description | <span style='font-size:8px'> Failure | <span style='font-size:8px'>  The composition lasts 1 rounds, but you don't spend the Focus Point for casting this spell."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

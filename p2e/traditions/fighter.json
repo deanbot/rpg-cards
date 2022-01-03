@@ -1,0 +1,31 @@
+[
+  {
+    "count": 1,
+    "title": "Power Attack",
+    "contents": [
+      "subtitle | Fighter Class Feat 1",
+      "subtitle | Fighter Flourish",
+      "rule",
+      "property | Actions | [AA]",
+      "rule",
+      "text | <span style='font-size:8px'>You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an extra die of weapon damage.",
+      "description | <span style='font-size:8px'> 10th Level | <span style='font-size:8px'>  2 extra dice",
+      "description | <span style='font-size:8px'> 18th Level | <span style='font-size:8px'>  3 extra dice"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Attack of Opportunity",
+    "contents": [
+      "subtitle | Class Action",
+      "rule",
+      "property | Reaction Trigger | A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.",
+      "rule",
+      "text | You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

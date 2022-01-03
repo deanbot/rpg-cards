@@ -1,0 +1,51 @@
+[
+  {
+    "count": 1,
+    "title": "Counter Performance",
+    "contents": [
+      "subtitle | Composition Focus Spell 1",
+      "subtitle | Bard Comp Ench Fort Ment",
+      "rule",
+      "property | Casting/Reaction | S or V",
+      "property | Area | 60-foot emanation",
+      "rule",
+      "text | <span style='font-size:8px'><span style'font-weight:bold'>Trigger</span>: You or an ally within 60 feet rolls a saving throw against an auditory or visual effect.",
+      "text | <span style='font-size:8px'>Your performance protects you and your allies. Roll a Performance check for a type you know: an auditory performance if the trigger was auditory, or a visual one for a visual trigger. You and allies in the area can use the better result between your Performance check and the saving throw."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Inspire Courage",
+    "contents": [
+      "subtitle | Composition Cantrip 1",
+      "subtitle | Bard Comp Ench Emot Ment",
+      "rule",
+      "property | Cast | [A] V",
+      "property | Area | 60-foot emanation",
+      "property | Duration | 1 round",
+      "rule",
+      "text | <span style='font-size:8px'>You inspire your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Lingering Composition",
+    "contents": [
+      "subtitle | Composition Focus Spell 1",
+      "subtitle | Bard Enchantment",
+      "rule",
+      "property | Cast | [A] V",
+      "rule",
+      "text | <span style='font-size:8px'>You add a flourish to your composition to extend its benefits. If your next action is to cast a cantrip composition with a duration of 1 round, attempt a Performance check. The DC is usually a standard-difficulty DC of a level equal to the highest‑level target of your composition, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.",
+      "description | <span style='font-size:8px'> Critical Success | <span style='font-size:8px'>  The composition lasts 4 rounds.",
+      "description | <span style='font-size:8px'> Success | <span style='font-size:8px'>  The composition lasts 3 rounds.",
+      "description | <span style='font-size:8px'> Failure | <span style='font-size:8px'>  The composition lasts 1 rounds, but you don't spend the Focus Point for casting this spell."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

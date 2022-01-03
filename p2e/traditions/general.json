@@ -1,0 +1,16 @@
+[
+  {
+    "count": 1,
+    "title": "Shield Block",
+    "contents": [
+      "subtitle | Genearl Feat 1",
+      "rule",
+      "property | Reaction Trigger | While you have your shield raised, you would take damage from a physical attack.",
+      "rule",
+      "text | You snap your shield in place to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield's Hardness.",
+      "text | You and the shield each take any remaining damage, possibly breaking or destroying the shield."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

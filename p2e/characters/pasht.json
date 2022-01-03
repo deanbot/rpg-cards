@@ -1,0 +1,101 @@
+[
+  {
+    "count": 1,
+    "title": "Pasht Dac'man",
+    "contents": [
+      "subtitle | Half-Orc Fighter, Md",
+      "property | STR 4, DEX 1, CON 2, INT 0, WIS 1, CHA 0 | ",
+      "property | SPD 25ft | | Fortitude 7, Reflex 6, Will 4 | ",
+      "property | AC 14 + Item | | (Base 10, Dex 1, Prof 3) | ",
+      "property | HP | | 20 | ",
+      "rule",
+      "text | Expert Perception, Low-Light Visibility",
+      "text | Skils: Acro 4, Athl 7, Intim: 3, Lore Orc: 3, Lore War: 3, Med: 1, Nat: 1, Rel: 1, Stl: 4, Sur: 4, Thi: 4",
+      "text | Gain 10 + Con HP each lvl",
+      "description | Weapons | E: Simple, Martial, Unarmed - T: Advanced",
+      "description | Armor | T: Lightt, Medium, Heavy, unarmored"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Weapons, Armor & Gear",
+    "contents": [
+      "subtitle | Armor",
+      "property | Hide | (Dex Cap: 2) | +3 AC | ",
+      "property | Steel Shield | (Hardness: 5) | Raised AC +2 | ",
+      "property | HP (20) | 20 | BT (10) | ",
+      "rule",
+      "subtitle | Weapons",
+      "property | Battle Axe | Hit +9 | Damage | 1d8+4 (S)",
+      "property | Sweep | +1 Hit if is 2nd target",
+      "rule",
+      "subtitle | Gear",
+      "text | Main Inv: Climbing Kit, Dagger, Earplugs, Fishing Tackle, Grappling Hook, Hammer, Splint, Support, Ten-Foot Pole, Tool",
+      "text | Backpack: Bedroll, Chalk, Flint and Steel (2), Rope, Soap, Torch, Waterskin",
+      "description | Rations | 2"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Quick Jump",
+    "contents": [
+      "subtitle | Athletics Skill Feat 1",
+      "rule",
+      "property | Actions | [A]",
+      "rule",
+      "text | High Jump and Long Jump as a single action (don't perform/require Stride).",
+      "description | High Jump | Leap Vert (3ft virt + 5ft horiz), DC 30 Athl... CS: inc vert up to 8 or vert5 horiz10, S: Inc vert to 5",
+      "description | Long Jump | Leap Horiz (10ft if spd 15+, or 15ft if spd 30+), DC Athl total Leap... S: inc horiz up to SPD",
+      "description | Critical Failure | fall prone"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shield Block",
+    "contents": [
+      "subtitle | Genearl Feat 1",
+      "rule",
+      "property | Reaction Trigger | While you have your shield raised, you would take damage from a physical attack.",
+      "rule",
+      "text | You snap your shield in place to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield's Hardness.",
+      "text | You and the shield each take any remaining damage, possibly breaking or destroying the shield."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Power Attack",
+    "contents": [
+      "subtitle | Fighter Class Feat 1",
+      "subtitle | Fighter Flourish",
+      "rule",
+      "property | Actions | [AA]",
+      "rule",
+      "text | <span style='font-size:8px'>You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an extra die of weapon damage.",
+      "description | <span style='font-size:8px'> 10th Level | <span style='font-size:8px'>  2 extra dice",
+      "description | <span style='font-size:8px'> 18th Level | <span style='font-size:8px'>  3 extra dice"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Attack of Opportunity",
+    "contents": [
+      "subtitle | Class Action",
+      "rule",
+      "property | Reaction Trigger | A creature within your reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.",
+      "rule",
+      "text | You lash out at a foe that leaves an opening. Make a melee Strike against the triggering creature. If your attack is a critical hit and the trigger was a manipulate action, you disrupt that action. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

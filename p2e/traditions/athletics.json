@@ -1,0 +1,18 @@
+[
+  {
+    "count": 1,
+    "title": "Quick Jump",
+    "contents": [
+      "subtitle | Athletics Skill Feat 1",
+      "rule",
+      "property | Actions | [A]",
+      "rule",
+      "text | High Jump and Long Jump as a single action (don't perform/require Stride).",
+      "description | High Jump | Leap Vert (3ft virt + 5ft horiz), DC 30 Athl... CS: inc vert up to 8 or vert5 horiz10, S: Inc vert to 5",
+      "description | Long Jump | Leap Horiz (10ft if spd 15+, or 15ft if spd 30+), DC Athl total Leap... S: inc horiz up to SPD",
+      "description | Critical Failure | fall prone"
+    ],
+    "tags": [],
+    "color": ""
+  }
+]

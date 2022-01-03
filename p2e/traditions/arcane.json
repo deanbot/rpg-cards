@@ -1,0 +1,3140 @@
+[
+  {
+    "count": 1,
+    "title": "Acid Arrow",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Acid Attack Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 creature or object",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure an arrow of acid that continues corroding the target after it hits. Make a spell attack against the target.",
+      "text | <span style='font-size:8px'> On a hit, you deal 3d8 acid damage plus 1d6 persistent acid damage. On a critical hit, double the initial damage, but not the persistent damage.",
+      "text | <span style='font-size:8px'> Heightened (+2) The initial damage increases by 2d8, and the persistent acid damage increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Acid Splash",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Acid Attack Cantrip Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature or object",
+      "rule",
+      "text | <span style='font-size:8px'> You splash a glob of acid that splatters creatures and objects alike. Make a spell attack. If you hit, you deal 1d6 acid damage plus 1 splash acid damage. On a critical success, the target also takes 1 persistent acid damage.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The initial damage increases to 1d6 + your spellcasting ability modifier, and the persistent damage increases to 2.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The initial damage increases to 2d6 + your spellcasting ability modifier, the persistent damage increases to 3, and the splash damage increases to 2.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The initial damage increases to 3d6 + your spellcasting ability modifier, the persistent damage increases to 4, and the splash damage increases to 3.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The initial damage increases to 4d6 + your spellcasting ability modifier, the persistent damage increases to 5, and the splash damage increases to 4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Aerial Form",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You harness your mastery of primal forces to reshape your body into a Medium flying animal battle form. When you cast this spell, choose bat, bird, pterosaur, or wasp. You can decide the specific type of animal (such as an owl or eagle for bird), but this has no effect on the form’s Size or statistics. While in this form, you gain the animal trait. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the form you choose:",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Your battle form is Large and your fly Speed gains a +10-foot status bonus. You must have enough space to expand into or the spell is lost. You instead gain 10 temporary HP, attack modifier +18, damage bonus +8, and Acrobatics +20.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  Your battle form is Huge, your fly Speed gains a +15-foot status bonus, and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain AC = 21 + your level, 15 temporary HP, attack modifier +21, damage bonus +4 and double damage dice (including persistent damage), and Acrobatics +23."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Air Bubble",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Air Conjuration",
+      "rule",
+      "property | Casting | [R] V; Trigger: A creature within range enters an environment where it can’t breathe.",
+      "property | Range | 60 feet",
+      "property | Targets | the triggering creature",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> A bubble of pure air appears around the target’s head, allowing it to breathe normally. The effect ends as soon as the target returns to an environment where it can breathe normally."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Air Walk",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Air Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 5 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target can walk on air as if it were solid ground. It can ascend and descend in this way at a maximum of a 45-degree angle."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Alarm",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | 10 minutes (M, S, V); Requirements 3 gp silver bell focus",
+      "property | Range | touch",
+      "property | Duration | 8 hours",
+      "rule",
+      "text | <span style='font-size:8px'> You ward an area to alert you when creatures enter without your permission. When you cast alarm, select a password. Whenever a Small or larger corporeal creature enters the spell’s area without speaking the password, alarm sends your choice of a mental alert (in which case the spell gains the mental trait) or an audible alarm with the sound and volume of a hand bell (in which case the spell gains the auditory trait). Either option automatically awakens you, and the bell allows each creature in the area to attempt a DC 15 Perception check to wake up. A creature aware of the alarm must succeed at a Stealth check against the spell’s DC or trigger the spell when moving into the area.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can specify criteria for which creatures sound the alarm spell—for instance, orcs or masked people."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Animal Form",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You call upon primal energy to transform yourself into a Medium animal battle form. When you first cast this spell, choose ape, bear, bull, canine, cat, deer, frog, shark, or snake. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form’s Size or statistics. While in this form, you gain the animal trait. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the type of animal you choose:",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You instead gain 10 temporary HP, AC = 17 + your level, attack modifier +14, damage bonus +5, and Athletics +14.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  Your battle form is Large and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, AC = 18 + your level, attack modifier +16, damage bonus +9, and Athletics +16.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Your battle form is Huge and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, AC = 18 + your level, attack modifier +18, damage bonus +7 and double the number of damage dice, and Athletics +20."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Animal Messenger",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Enchantment Mental",
+      "rule",
+      "property | Casting | 1 minute (M, S, V)",
+      "property | Range | 120 feet",
+      "property | Duration | until delivered",
+      "rule",
+      "text | <span style='font-size:8px'> You offer a gift of food, and an ordinary Tiny wild animal within range approaches to eat it. You imprint the image, direction, and distance of an obvious place or landmark well known to you within the animal. Optionally, you can attach a small object or note up to light Bulk to it. The animal does its best to reach the destination; if it makes it there, it waits nearby until the duration expires, allowing other nonhostile creatures to approach it and remove the attached object.",
+      "text | <span style='font-size:8px'> If there are no Tiny wild animals in range, the spell is lost."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Animal Vision",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Divination Mental",
+      "rule",
+      "property | Casting | 1 minute (M, S, V)",
+      "property | Range | 120 feet",
+      "property | Targets | 1 animal",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You tap into the target’s senses, allowing you to see, hear, and otherwise sense whatever it senses for the spell’s duration. If the target wishes to prevent you from doing so, it can attempt a Will save, negating the spell on a success, but most animals don’t bother to do so. While tapping into the target’s senses, you can’t use your own body’s senses, but you can change back and forth from your body’s senses to the target’s senses using a single action, which has the concentrate trait."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Ant Haul",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 8 hours",
+      "rule",
+      "text | <span style='font-size:8px'> You reinforce the target’s musculoskeletal system to bear more weight. The target can carry 3 more Bulk than normal before becoming encumbered and up to a maximum of 6 more Bulk."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Baleful Polymorph",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Incapacitation Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | varies",
+      "rule",
+      "text | <span style='font-size:8px'> You transform the target creature into a harmless animal appropriate to the area, with effects based on its Fortitude save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target’s body gains minor features of the harmless animal. Its insides churn as they partially transform, causing it to be sickened 1. When it recovers from the sickened condition, its features revert to normal.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target transforms for 1 minute but keeps its mind. If it spends all its actions on its turn concentrating on its original form, it can attempt a Will save to end the effect immediately.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is transformed into the chosen harmless animal, body and mind, for an unlimited duration."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Banishment",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Abjuration Incapacitation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature that isn’t on its home plane",
+      "property | Saving Throw | Will",
+      "rule",
+      "text | <span style='font-size:8px'> You send the target back to its home plane. The target must attempt a Will save. You can spend an extra action while Casting this spell and add a material component to give the creature a -2 circumstance penalty to its save. The component must be a specially gathered object that is anathema to the creature, and not from a spell component pouch. This spell fails if you aren’t on your home plane when you cast it.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target resists being banished and you are stunned 1.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target resists being banished.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is banished.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is banished and can’t return by any means to the plane it’s banished from for 1 week.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  You can target up to 10 creatures. The extra material component affects targets to which it is anathema."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Barkskin",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Abjuration Plant",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing creature",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target’s skin becomes covered in bark. The target gains resistance 2 to bludgeoning and piercing damage and weakness 3 to fire. After the target takes fire damage, it can Dismiss the spell as a free action triggered by taking the damage; doing so doesn’t reduce the fire damage the target was dealt.",
+      "text | <span style='font-size:8px'> Heightened (+2) The resistances increase by 2, and the weakness increases by 3."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Blindness",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Incapacitation Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> You blind the target. The effect is determined by the target’s Fortitude save. The target then becomes temporarily immune for 1 minute.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is blinded until its next turn begins.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is blinded for 1 minute.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is blinded permanently."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Burning Hands",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> Gouts of flame rush from your hands. You deal 2d6 fire damage to creatures in the area.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Cataclysm",
+    "contents": [
+      "subtitle | Spell 10",
+      "subtitle | Acid Air Cold Earth Electricity Evocation Fire Water",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 1,000 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> You call upon the unimaginable power of world-ending cataclysms, ripping a small piece of each cataclysm and combining them together into one horrifically powerful attack.",
+      "text | <span style='font-size:8px'> The following effects come down upon all creatures in the area. Treat the resistances of creatures in the area as if they were 10 lower for the purpose of determining the cataclysm’s damage. Each creature attempts one basic Reflex save that applies to all six types of damage."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Chain lightning",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Electricity Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Targets | 1 creature, plus any number of additional creatures",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> You discharge a powerful bolt of lightning at the target, dealing 8d12 electricity damage. The target must attempt a basic Reflex save. The electricity arcs to another creature within 30 feet of the first target, jumps to another creature within 30 feet of that target, and so on. You can end the chain at any point. You can’t target the same creature more than once, and you must have line of effect to all targets. Roll the damage only once, and apply it to each target (halving or doubling as appropriate for its saving throw outcome). The chain ends if any one of the targets critically succeeds at its save.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d12."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Charm",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Emotion Enchantment Incapacitation Mental",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Will",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.",
+      "text | <span style='font-size:8px'> You can dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn’t necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected and aware you tried to charm it.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell (usually with Identify Magic).",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target’s attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can’t use hostile actions against you.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target’s attitude becomes helpful toward you, and it can’t use hostile actions against you.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The duration lasts until the next time you make your daily preparations.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Cloudkill",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Death Necromancy Poison",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a poisonous fog. This functions as obscuring mist, except the area moves 10 feet away from you each round. You deal 6d8 poison damage to each breathing creature that starts its turn in the spell’s area. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d8."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Cone of Cold",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Cold Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> Icy cold rushes forth from your hands. You deal 12d6 cold damage to creatures in the area.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Continual Flame",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Evocation Light",
+      "rule",
+      "property | Casting | [AAA] M, S, V; Cost 6 gp of ruby dust",
+      "property | Range | touch",
+      "property | Targets | 1 object",
+      "property | Duration | unlimited",
+      "rule",
+      "text | <span style='font-size:8px'> A magical flame springs up from the object, as bright as a torch.",
+      "text | <span style='font-size:8px'> It doesn’t need oxygen, react to water, or generate heat.",
+      "text | <span style='font-size:8px'> Heightened (+1) The cost increases as follows: 16 gp for 3rd level; 30 gp for 4th, 60 gp for 5th, 120 gp for 6th,; 270 gp for 7th, 540 gp for 8th, 1,350 gp for 9th, and 3,350 gp for 10th."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Control Water",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Evocation Water",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "rule",
+      "text | <span style='font-size:8px'> By imposing your will upon the water, you can raise or lower the level of water in the chosen area by 10 feet. Water creatures in the area are subjected to the effects of slow."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Create Food",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | 1 hour (S, V)",
+      "property | Range | 30 feet",
+      "rule",
+      "text | <span style='font-size:8px'> You create enough food to feed six Medium creatures for a day. This food is bland and unappealing, but it is nourishing.",
+      "text | <span style='font-size:8px'> After 1 day, if no one has eaten the food, it decays and becomes inedible. Most Small creatures eat one-quarter as much as a Medium creature (one-sixteenth as much for most Tiny creatures), and most Large creatures eat 10 times as much (100 times as much for Huge creatures and so on).",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  You can feed 12 Medium creatures.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  You can feed 50 Medium creatures.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  You can feed 200 Medium creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Create Water",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Conjuration Water",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 0 feet",
+      "rule",
+      "text | <span style='font-size:8px'> As you cup your hands, water begins to flow forth from them.",
+      "text | <span style='font-size:8px'> You create 2 gallons of water. If no one drinks it, it evaporates after 1 day."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Creation",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | 1 minute (M, S, V)",
+      "property | Range | 0 feet",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a temporary object from eldritch energy. It must be of vegetable matter (such as wood or paper) and 5 cubic feet or smaller. It can’t rely on intricate artistry or complex moving parts, never fulfills a cost or the like, and can’t be made of Precious materials or materials with a rarity of uncommon or higher. It is obviously temporarily conjured, and thus can’t be sold or passed off as a genuine item.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The item is metal and can include common minerals, like feldspar or quartz."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Dancing Lights",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation Light",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Duration | sustained",
+      "rule",
+      "text | <span style='font-size:8px'> You create up to four floating lights, no two of which are more than 10 feet apart. Each sheds light like a torch. When you Sustain the Spell, you can move any number of Lights up to 60 feet. Each Light must remain within 120 feet of you and within 10 feet of all others, or it winks out."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Darkness",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Darkness Evocation",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You create a shroud of darkness that prevents Light from penetrating or emanating within the area. Light does not enter the area and any non-magical Light sources, such as a torch or lantern, do not emanate any Light while inside the area, even if their Light radius would extend beyond the darkness.",
+      "text | <span style='font-size:8px'> This also suppresses magical light of your darkness spell’s level or lower. Light can’t pass through, so creatures in the area can’t see outside. From outside, it appears as a globe of pure darkness.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  Even creatures with darkvision (but not greater darkvision) can barely see through the darkness. They treat targets seen through the darkness as concealed."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Darkvision",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Divination",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 hour",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You grant yourself supernatural sight in areas of darkness.",
+      "text | <span style='font-size:8px'> You gain darkvision.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The spell’s range is touch and it targets 1 willing creature.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The spell’s range is touch and it targets 1 willing creature. The duration is until the next time you make your daily preparations."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Deafness",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> The target loses hearing; it must attempt a Fortitude save. The target is then temporarily immune for 1 minute.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is deafened for 1 round.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is deafened for 10 minutes.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is deafened permanently."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Death Ward",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 living creature touched Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You shield a creature from the ravages of negative energy.",
+      "text | <span style='font-size:8px'> It receives a +4 status bonus to saves against death and negative effects, gains negative resistance 10, and suppresses the effects of the doomed condition."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Detect Magic",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Detection Divination",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "rule",
+      "text | <span style='font-size:8px'> Area 30-foot emanation",
+      "text | <span style='font-size:8px'> You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic.",
+      "text | <span style='font-size:8px'> You can choose to ignore magic you’re fully aware of, such as the magic items and ongoing spells of you and your allies.",
+      "text | <span style='font-size:8px'> You detect illusion magic only if that magic’s effect has a lower level than the level of your detect magic spell. However, items that have an illusion aura but aren’t deceptive in appearance (such as an invisibility potion) typically are detected normally.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don’t learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Detect Poison",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Uncommon Detection Divination",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 object or creature",
+      "rule",
+      "text | <span style='font-size:8px'> You detect whether a creature is venomous or poisonous, or if an object is poison or has been poisoned. You do not ascertain whether the target is poisonous in multiple ways, nor do you learn the type or types of poison. Certain substances, like lead and alcohol, are poisons and so mask other poisons.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  You learn the number and types of poison."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Dinosaur Form",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You channel the primal forces of nature to transform into a Large animal battle form, specifically that of a powerful and terrifying dinosaur. You must have space to expand or the spell is lost.",
+      "text | <span style='font-size:8px'> When you cast this spell, choose ankylosaurus, brontosaurus, deinonychus, stegosaurus, triceratops, or tyrannosaurus. You can decide the specific type of animal, but this has no effect on the form’s Size or statistics. While in this form, you gain the animal and dinosaur traits. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the form you choose:",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Your battle form is Huge and your attacks have 15-foot reach, or 20-foot reach if they started with 15-foot reach. You instead gain 20 temporary HP, an attack modifier of +18, a damage bonus of +6, double the damage dice, and Athletics +21.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  Your battle form is Gargantuan and your attacks have 20-foot reach, or 25-foot reach if they started with 15-foot reach. You instead gain AC = 21 + your level, 25 temporary HP, an attack modifier of +25, a damage bonus of +15, double the damage dice, and Athletics +25."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Disjunction",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Uncommon Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 magic item",
+      "rule",
+      "text | <span style='font-size:8px'> Crackling energy disjoins the target. You attempt to counteract it. If you succeed, it’s deactivated for 1 week. On a critical success, it’s destroyed. If it’s an artifact or similar item, you automatically fail."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Dispel Magic",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 spell effect or unattended magic item",
+      "rule",
+      "text | <span style='font-size:8px'> You unravel the magic behind a spell or effect. Attempt a counteract check against the target. If you succeed against a spell effect, you counteract it. If you succeed against a magic item, the item becomes a mundane item of its type for 10 minutes. This doesn’t change the item’s non-magical properties.",
+      "text | <span style='font-size:8px'> If the target is an artifact or similar item, you automatically fail."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Disrupt Undead",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Necromancy Positive",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 undead creature",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> You lance the target with energy. You deal 1d6 Positive damage plus your spellcasting ability modifier. The target must attempt a basic Fortitude save. If the creature critically fails the save, it is also enfeebled 1 for 1 round.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Dragon Form",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Calling upon powerful transformative magic, you gain a Large dragon battle form. You must have space to expand or the spell is lost. When you cast this spell, choose one type of chromatic or metallic dragon. While in this form, you gain the dragon trait.",
+      "text | <span style='font-size:8px'> You have hands in this battle form and can take manipulate actions. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the type of dragon you choose:",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  Your battle form is Huge, you gain a +20?foot status bonus to your fly Speed, and your attacks have 10-foot reach (or 15-foot reach if they previously had 10-foot reach). You instead gain AC = 21 + your level, 15 temporary HP, an attack modifier of +28, a damage bonus of +12, Athletics +28, and a +14 status bonus to breath weapon damage."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Earthbind",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 flying creature",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | varies",
+      "rule",
+      "text | <span style='font-size:8px'> Using the weight of earth, you hamper a target’s flight, with effects based on its Fortitude save. If the creature reaches the ground safely, it doesn’t take falling damage.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target falls safely up to 120 feet.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target falls safely up to 120 feet. If it hits the ground, it can’t fly, levitate, or otherwise leave the ground for 1 round.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target falls safely up to 120 feet. If it hits the ground, it can’t fly, levitate, or otherwise leave the ground for 1 minute."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Earthquake",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Earth Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Duration | 1 round",
+      "rule",
+      "text | <span style='font-size:8px'> You shake the ground, topple creatures into fissures, and collapse structures.",
+      "text | <span style='font-size:8px'> The GM might add additional effects in certain areas. Cliffs might collapse, causing creatures to fall, or a lake might drain as fissures open up below its surface, leaving a morass of quicksand.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature takes half the collapse damage.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature takes half the collapse damage and falls prone.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature takes the full collapse damage and falls prone.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature takes the full collapse damage and falls into a fissure.",
+      "description | <span style='font-size:8px'> Heightened (10th) | <span style='font-size:8px'>  You create a massive earthquake that can devastate a settlement. The range increases to half a mile and the area to a quarter-mile burst."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Eclipse Burst",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Cold Darkness Necromancy Negative",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> A globe of freezing darkness explodes in the area, dealing 8d10 cold damage to creatures and objects in the area, plus 8d4 additional negative damage to living creatures. Creatures and objects in the area must attempt a Reflex save.",
+      "text | <span style='font-size:8px'> If the globe overlaps with an area of magical Light or affects a creature affected by magical light, eclipse burst attempts to counteract the Light effect.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature or object is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature or object takes half damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature or object takes full damage.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature or object takes double damage. If it’s a creature, it becomes blinded by the darkness for an unlimited duration. Heightened (+1) The cold damage increases by 1d10 and the negative damage against the living increases by 1d4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Electric Arc",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Electricity Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 or 2 creatures",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> An arc of Lightning leaps from one target to another. You deal electricity damage equal to 1d4 plus your spellcasting ability modifier.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Elemental Form",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You call upon the power of the planes to transform into a Medium elemental battle form. When you cast this spell, choose air, earth, fire, or water. While in this form, you gain the corresponding trait and the elemental trait. You have hands in this battle form and can take manipulate actions.",
+      "text | <span style='font-size:8px'> You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the type of elemental you choose:",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  Your battle form is Large and your attacks have 10-foot reach. You must have space to expand or the spell is lost. You instead gain AC = 22 + your level, 15 temporary HP, an attack modifier of +23, a damage bonus of +13, and Acrobatics or Athletics +23.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  Your battle form is Huge and your attacks have 15-foot reach. You must have space to expand or the spell is lost. You instead gain AC = 22 + your level, 20 temporary HP, an attack modifier of +25, a damage bonus of +11, double the number of damage dice (including persistent damage), and Acrobatics or Athletics +25."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Endure Elements",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | 10 minutes (S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 willing creature",
+      "property | Duration | until the next time you make your daily preparations",
+      "rule",
+      "text | <span style='font-size:8px'> You shield the target against dangerous temperatures.",
+      "text | <span style='font-size:8px'> Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The target is protected from severe cold and heat.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The target is protected from severe cold, severe heat, extreme cold, and extreme heat."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Energy Aegis",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | 1 minute (M, S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 24 hours",
+      "rule",
+      "text | <span style='font-size:8px'> You protect the target with a powerful, long-lasting energy barrier. The target gains resistance 5 to acid, cold, electricity, fire, force, negative, positive, and Sonic damage.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The resistances increase to 10."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Enhance Victuals",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | 1 minute (M, S, V)",
+      "property | Range | touch",
+      "property | Targets | up to 1 gallon of non-magical water or up to 5 pounds of food",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You transform the target into delicious fare, changing water into wine or another fine beverage or enhancing the food’s taste and ingredients to make it a gourmet treat.",
+      "text | <span style='font-size:8px'> Prior to the transformation, the spell attempts to counteract any poisons in the food or water. The food turns back to normal if not consumed before the duration expires, though any poisons that were counteracted are still gone.",
+      "text | <span style='font-size:8px'> Heightened (+1) The number of gallons of water you can target increases by 1, or the number of pounds of food you can target increases by 5."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Enlarge",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 willing creature",
+      "property | Duration | 5 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> Bolstered by magical power, the target grows to size Large.",
+      "text | <span style='font-size:8px'> Its equipment grows with it but returns to natural size if removed. The creature is clumsy 1. Its reach increases by 5 feet (or by 10 feet if it started out Tiny), and it gains a +2 status bonus to melee damage. This spell has no effect on a Large or larger creature.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The creature instead grows to size Huge. The status bonus to melee damage is +4 and the creature’s reach increases by 10 feet (or 15 feet if the creature started out Tiny). The spell has no effect on a Huge or larger creature.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  As level 4, but you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Entangle",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Plant Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Plants in the area entangle creatures. The area counts as difficult terrain. Each round that a creature starts its turn in the area, it must attempt a Reflex save. On a failure, it takes a -10-foot circumstance penalty to its Speeds until it leaves the area, and on a critical failure, it is also immobilized for 1 round. Creatures can attempt to Escape at entangle‘s DC to remove these effects."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Faerie Fire",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Evocation Light",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 5 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> All creatures in the area when you cast the spell are limned in colorful, heatless fire of a color of your choice for the duration. Visible creatures can’t be concealed while affected by faerie fire. If the creatures are invisible, they are concealed while affected by faerie fire, rather than being undetected."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fear",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Emotion Enchantment Fear Mental",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Will",
+      "property | Duration | varies",
+      "rule",
+      "text | <span style='font-size:8px'> You plant fear in the target; it must attempt a Will save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is frightened 1.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is frightened 2.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is frightened 3 and fleeing for 1 round.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can target up to five creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Feather Fall",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [R] V; Trigger: A creature within range is falling.",
+      "property | Range | 60 feet",
+      "property | Targets | 1 falling creature",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You cause the air itself to arrest a fall. The target’s fall slows to 60 feet per round, and the portion of the fall during the spell’s duration doesn’t count when calculating falling damage. If the target reaches the ground while the spell is in effect, it takes no damage from the fall. The spell ends as soon as the target lands."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Feet To Fins",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Morph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing creature",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target’s feet transform into fins, improving mobility in the water but reducing it on land. The target gains a swim Speed equal to its normal land Speed, but its land Speed becomes 5 feet.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The spell lasts until the next time you make your daily preparations."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Field of Life",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Healing Necromancy Positive",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> A field of Positive energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any undead creature that starts its turn in the area takes 1d8 Positive damage.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  The healing and damage increase to 1d10.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The healing and damage increase to 1d12."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fiery Body",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Fire Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You become living flame, giving you fire immunity, resistance 10 to precision damage, and weakness 5 to cold and to water. Any creature that touches you or damages you with an unarmed attack or non-reach melee weapon takes 3d6 fire damage.",
+      "text | <span style='font-size:8px'> Your unarmed attacks deal 1d4 additional fire damage, and your fire spells deal one additional die of fire damage (of the same damage die the spell uses). You can cast produce flame as an innate spell; the casting is reduced from 2 actions to 1.",
+      "text | <span style='font-size:8px'> In fire form, you have a fly Speed of 40 feet and don’t need to breathe.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  Creatures touching you take 4d6 fire damage instead of 3d6, your unarmed attacks deal 2d4 additional fire damage, and you have a fly Speed of 60 feet."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Finger of Death",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Death Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 living creature",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> You point your finger toward the target and speak a word of slaying. You deal 70 negative damage to the target. If the damage from finger of death reduces the target to 0 Hit Points, the target dies instantly.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 10."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fire Seeds",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Evocation Fire Plant",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Reflex",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Four acorns grow in your hand, their shells streaked with pulsing red and orange patterns. You or anyone else who has one of the acorns can toss it up to 30 feet with an Interact action. It explodes in a 5-foot burst, dealing 4d6 fire damage.",
+      "text | <span style='font-size:8px'> The save uses your spell DC, even if someone else throws the acorn.",
+      "text | <span style='font-size:8px'> Flames continue to burn on the ground in the burst for 1 minute, dealing 2d6 fire damage to any creature that enters the flames or ends its turn within them. A creature can take damage from the continuing flames only once per round, even if it’s in overlapping areas of fire created by different acorns.",
+      "text | <span style='font-size:8px'> When the spell ends, any remaining acorns rot and turn to ordinary soil.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  The burst’s damage increases to 5d6, and the continuing flames damage increases to 3d6.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The burst’s damage increases to 6d6, and the continuing flames damage increases to 3d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fire Shield",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You wreathe yourself in ghostly flames, gaining cold resistance 5. Additionally, adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an unarmed attack, take 2d6 fire damage each time they do.",
+      "text | <span style='font-size:8px'> Heightened (+2) The cold resistance increases by 5, and the fire damage increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fireball",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> A roaring blast of fire appears at a spot you designate, dealing 6d6 fire damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Flaming Sphere",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Saving Throw | Reflex",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You create a sphere of flame in a square within range. The sphere must be supported by a solid surface, such as a stone floor. The sphere deals 3d6 fire damage to each creature in the square where it first appears; each creature must attempt a basic Reflex save. On subsequent rounds, you can Sustain this Spell, leaving the sphere in its square or rolling it to another square within range and dealing 3d6 fire damage; each creature in its square must attempt a basic Reflex save.",
+      "text | <span style='font-size:8px'> Creatures that succeed at their save take no damage (instead of half).",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fleet Step",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You gain a +30-foot status bonus to your Speed."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Flesh to Stone",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 creature made of flesh",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | varies",
+      "rule",
+      "text | <span style='font-size:8px'> You try to turn the target’s flesh into stone. The target must attempt a Fortitude save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is slowed 1 for 1 round.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is slowed 1 and must attempt a Fortitude save at the end of each of its turns; this ongoing save has the incapacitation trait. On a failed save, the slowed condition increases by 1 (or 2 on a critical failure). A successful save reduces the slowed condition by 1. When a creature is unable to act due to the slowed condition from flesh to stone, the creature is petrified permanently. The spell ends if the creature is petrified or the slowed condition is removed.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> As failure, but the target is initially slowed 2."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Fly",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 5 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target can soar through the air, gaining a fly Speed equal to its Speed or 20 feet, whichever is greater.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The duration increases to 1 hour."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Freedom of Movement",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature touched Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You repel effects that would hinder a creature or slow its movement. While under this spell’s effect, the target ignores effects that would give them a circumstance penalty to Speed. When they attempt to Escape an effect that has them immobilized, grabbed, or restrained, they automatically succeed unless the effect is magical and of a higher level than the freedom of movement spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Gaseous Form",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing creature",
+      "property | Duration | 5 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target transforms into a vaporous state. In this state, the target is amorphous and loses any item bonus to AC.",
+      "text | <span style='font-size:8px'> It gains resistance 8 to physical damage and is immune to precision damage. It can’t cast spells, activate items, or use actions that have the attack or manipulate trait. It gains a fly Speed of 10 feet and can slip through tiny cracks. The target can Dismiss the spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Gentle Repose",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 corpse",
+      "property | Duration | until the next time you make your daily preparations",
+      "rule",
+      "text | <span style='font-size:8px'> The targeted corpse doesn’t decay, nor can it be transformed into an undead. If the corpse is subject to a spell that requires the corpse to have died within a certain amount of time (for example, raise dead), do not count the duration of gentle repose against that time. This spell also prevents ordinary bugs and pests (such as maggots) from consuming the body.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The spell’s duration is unlimited, but the spell takes one more action to cast and requires a material component and a cost (embalming fluid worth 6 gp)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Glitterdust",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> Creatures in the area are outlined by glittering dust. Each creature must attempt a Reflex save. If a creature has its invisibility negated by this spell, it is concealed instead of invisible. This applies both if the creature was already invisible and if it benefits from new invisibility effects before the end of the invisibility negation effect from this spell.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target’s invisibility is negated for 2 rounds.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is dazzled for 1 minute and its invisibility is negated for 1 minute.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is blinded for 1 round and dazzled for 10 minutes. Its invisibility is negated for 10 minutes."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Glyph of Warding",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | 10 minutes (M, S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 container or a 10-foot-by-10-foot area",
+      "property | Duration | unlimited",
+      "rule",
+      "text | <span style='font-size:8px'> You craft a trap by binding a hostile spell into a symbol. While Casting this Spell, you also Cast a Spell of a lower spell level to store in the glyph. The stored spell must take 3 actions or fewer to cast, have a hostile effect, and target one creature or have an area. You can set a password, a trigger, or both for the glyph. Any creature that moves, opens, or touches the target container or enters the target area that doesn’t speak the password or that matches the trigger activates the glyph, releasing the harmful spell within.",
+      "text | <span style='font-size:8px'> Once a spell is stored in the glyph, the glyph gains all the traits of that spell. If the stored spell targets one or more creatures, it targets the creature that set off the glyph. If it has an area, that area is centered on the creature that set off the glyph. Glyph of warding’s duration ends when the glyph is triggered. The glyph counts as a magical trap, using your spell DC for both the Perception check to notice it and the",
+      "text | <span style='font-size:8px'> Thievery check to disable it; both checks require the creature attempting them to be trained in order to succeed.",
+      "text | <span style='font-size:8px'> You can dismiss glyph of warding. The maximum number of glyphs of warding you can have active at a time is equal to your spellcasting ability modifier."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Goblin Pox",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Attack Disease Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> Your touch afflicts the target with goblin pox, an irritating allergenic rash. The target must attempt a Fortitude save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is sickened 1.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is afflicted with goblin pox at stage 1.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is afflicted with goblin pox at stage 2.",
+      "text | <span style='font-size:8px'> Goblin Pox (disease); Level 1. Goblins and goblin dogs are immune. Stage 1 sickened 1 (1 round); Stage 2 sickened 1 and slowed 1 (1 round); Stage 3 sickened 1 and the creature can’t reduce its sickened value below 1 (1 day)"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Grease",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure grease, with effects based on choosing area or target.",
+      "text | <span style='font-size:8px'> If you cast this spell on a worn object, the wearer gains a +2 circumstance bonus to Fortitude saves against attempts to grapple them."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Guidance",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Divination",
+      "rule",
+      "property | Casting | [A] V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Duration | until the start of your next turn",
+      "rule",
+      "text | <span style='font-size:8px'> You ask for divine guidance, granting the target a +1 status bonus to one attack roll, Perception check, saving throw, or skill check the target attempts before the duration ends. The target chooses which roll to use the bonus on before rolling.",
+      "text | <span style='font-size:8px'> If the target uses the bonus, the spell ends. Either way, the target is then temporarily immune for 1 hour."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Gust of Wind",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Air Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Duration | until the start of your next turn",
+      "rule",
+      "text | <span style='font-size:8px'> Area 60-foot line; Duration until the start of your next turn",
+      "text | <span style='font-size:8px'> A violent wind issues forth from your palm, blowing from the point where you are when you cast the spell to the line’s opposite end. The wind extinguishes small non-magical fires, disperses fog and mist, blows objects of light Bulk or less around, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that later move into the gust must attempt the save on entering.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature can’t move against the wind.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature is knocked prone. If it was flying, it suffers the effects of critical failure instead.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature is pushed 30 feet in the wind’s direction, knocked prone, and takes 2d6 bludgeoning damage."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Hallucinatory Terrain",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Uncommon Illusion",
+      "rule",
+      "property | Casting | 10 minutes (M, S, V)",
+      "property | Range | 500 feet",
+      "property | Duration | until the next time you make your daily preparations",
+      "rule",
+      "text | <span style='font-size:8px'> You create an illusion that causes natural terrain to look, sound, feel, and smell like a different kind of terrain. This doesn’t disguise any structures or creatures in the area.",
+      "text | <span style='font-size:8px'> Any creature that touches the illusion or uses the Seek action to examine it can attempt to disbelieve your illusion.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Your image can also disguise structures or create illusory structures (but still doesn’t disguise creatures)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Haste",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Magic empowers the target to act faster. It gains the quickened condition and can use the extra action each round only for Strike and Stride actions.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  You can target up to 6 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Heal",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Healing Necromancy Positive",
+      "rule",
+      "property | Casting | [A] to [AAA]",
+      "property | Range | varies",
+      "property | Targets | 1 willing living creature or 1 undead creature",
+      "rule",
+      "text | <span style='font-size:8px'> You channel Positive energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of Positive damage to it, and it gets a basic Fortitude save. The number of actions you spend when casting this spell determines its targets, range, area, and other parameters.",
+      "text | <span style='font-size:8px'> [one-action] (somatic) The spell has a range of touch.",
+      "text | <span style='font-size:8px'> [two-actions] (verbal, somatic) The spell has a range of 30 feet. If you’re Healing a living creature, increase the Hit Points restored by 8.",
+      "text | <span style='font-size:8px'> [three-actions] (material, somatic, verbal) You disperse Positive energy in a 30-foot emanation. This targets all living and undead creatures in the burst.",
+      "text | <span style='font-size:8px'> Heightened (+1) The amount of healing or damage increases by 1d8, and the extra Healing for the 2-action version increases by 8."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Horrid Wilting",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Necromancy Negative",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Targets | any number of living creatures",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> You pull the moisture from the targets’ bodies, dealing 10d10 negative damage. Creatures made of water (such as water elementals) and plant creatures use the outcome for one degree of success worse than the result of their saving throw. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to horrid wilting.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d10."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Humanoid Form",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You transform your appearance to that of a Small or Medium humanoid, such as a dwarf, elf, goblin, halfling, human, orc, or lizardfolk. You gain the humanoid trait in addition to your other traits while in this form, as well as any trait related to the creature’s kind (such as goblin or human). If this transformation reduces your size, it reduces your reach accordingly (as the shrink spell). This transformation doesn’t change your statistics in any way, and you don’t gain any special abilities of the humanoid form you assume. You can still wear and use your gear, which changes size (if necessary) to match your new form.",
+      "text | <span style='font-size:8px'> If items leave your person, they return to their usual size.",
+      "text | <span style='font-size:8px'> Humanoid form grants you a +4 status bonus to Deception checks to pass as a generic member of the chosen ancestry, and you add your level even if you’re untrained, but you can’t make yourself look like a specific person. If you want to Impersonate an individual, you still need to create a disguise, though the GM won’t factor in the difference in ancestry when determining the DC of your Deception check. You can dismiss this spell.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You gain darkvision or Low-light vision if the form you assume has that ability.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  You can take on the appearance of a Large humanoid. If this increases your size, you gain the effects of the enlarge spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Hydraulic Push",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Attack Evocation Water",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 60 feet",
+      "property | Targets | 1 creature or object",
+      "rule",
+      "text | <span style='font-size:8px'> You call forth a powerful blast of pressurized water that bludgeons the target and knocks it back. Make a ranged spell attack roll.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target takes 6d6 bludgeoning damage and is knocked back 10 feet.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes 3d6 bludgeoning damage and is knocked back 5 feet.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Hydraulic Torrent",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Evocation Water",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> A swirling torrent of water manifests along a straight line, battering those that are its path and possibly pushing them away from you. The torrent deals 8d6 bludgeoning damage.",
+      "text | <span style='font-size:8px'> Each creature in the area must attempt a basic Fortitude save.",
+      "text | <span style='font-size:8px'> Creatures that fail the save are also knocked back 5 feet (10 feet on a critical failure).",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Implosion",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 corporeal creature",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You crush the target by causing it to collapse in on itself, dealing 75 damage. Each time you Sustain the Spell, you must choose a new target to be subject to the same effect; the same creature can never be targeted more than once with a single casting of this spell. You also can’t affect more than one creature per turn with implosion. You can’t target a creature that’s incorporeal, gaseous, or liquid, or one that otherwise lacks a solid form.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 10."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Insect Form",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You envision a simple bug and transform into a Medium animal battle form. When you cast this spell, choose ant, beetle, centipede, mantis, scorpion, or spider. You can decide the specific type of animal (such as such as a ladybug or scarab for beetle), but this has no effect on the form’s Size or statistics. While in this form, you gain the animal trait. You can dismiss this spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the form you choose:",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  Your battle form is Large, and your attacks have 10-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 15 temporary HP, attack modifier +16, damage bonus +6, and Athletics +16.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Your battle form is Huge, and your attacks have 15-foot reach. You must have enough space to expand into or the spell is lost. You instead gain 20 temporary HP, attack modifier +18, damage bonus +2 and double damage dice (including persistent damage), and Athletics +20."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Jump",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Move Transmutation",
+      "rule",
+      "property | Casting | [A] S",
+      "rule",
+      "text | <span style='font-size:8px'> Your legs surge with strength, ready to leap high and far. You jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The range becomes touch, the target changes to one touched creature, and the duration becomes 1 minute, allowing the target to jump as described whenever it takes the Leap action."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Know Direction",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Detection Divination",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "rule",
+      "text | <span style='font-size:8px'> In your mind’s eye, you see a path northward. You immediately know which direction is north (if it exists at your current location).",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  You can instead know the direction to a familiar location, such as a previous home or a favorite tavern."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Light",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation Light",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 unattended, non-magical object of 1 Bulk or less",
+      "property | Duration | until the next time you make your daily preparations",
+      "rule",
+      "text | <span style='font-size:8px'> The object glows, casting bright light in a 20-foot radius (and dim light for the next 20 feet) like a torch. If you cast this spell again on a second object, the light spell on the first object ends.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The object sheds bright light in a 60-foot radius (and dim light for the next 60 feet)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Lightning Bolt",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Electricity Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> A bolt of Lightning strikes outward from your hand, dealing 4d12 electricity damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d12."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Longstrider",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 hour",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You lengthen your stride beyond what should be possible. You gain a +10-foot status bonus to your Speed.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  The duration increases to 8 hours."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Magic Fang",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing ally",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Choose one of the target’s unarmed attacks that deal one damage die. You cause that unarmed attack to shine with primal energy. The unarmed attack becomes a +1 Striking unarmed attack, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Mariner’s Curse",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Attack Curse Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Will",
+      "rule",
+      "text | <span style='font-size:8px'> You afflict the target with the curse of the roiling, unforgiving sea. The target must attempt a Will save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target becomes sickened 1. Reducing its sickened condition to 0 ends the curse.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target becomes sickened 1 and can’t reduce its sickened condition below 1 while the curse remains. The curse can be lifted by remove curse or similar magic. Whenever the target is sickened and on the water at least a mile from shore, it is also slowed 1.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> As failure, but the target becomes sickened 2."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Mask of Terror",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Emotion Fear Illusion Mental Visual",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> The target appears to be a gruesome and terrifying creature.",
+      "text | <span style='font-size:8px'> The effect is unique to each observer, so a human viewing the target might see a demon with bloody fangs, but a demon observing the target might see a glowing angelic visage.",
+      "text | <span style='font-size:8px'> When any creature attempts a hostile action against the target, the creature must attempt a Will save. It is then temporarily immune until the end of its next turn.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature becomes frightened 2 before using its action.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature becomes frightened 2, and its action fails and is wasted.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  You can target up to 5 creatures. If a creature uses a hostile action or reaction that affects multiple targets simultaneously, it needs to attempt only one save against mask of terror."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Massacre",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Death Necromancy Negative",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Fortitude",
+      "rule",
+      "text | <span style='font-size:8px'> You unleash a wave of necromantic energy to snuff out the life force of those in its path. Each creature of 17th level or lower in the line must attempt a Fortitude save. If the damage from massacre reduces a creature to 0 Hit Points, that creature dies instantly. If massacre doesn’t kill even a single creature, the negative energy violently explodes back toward you, dealing an additional 30 negative damage to every creature in the line (even those above 17th level) and 30 negative damage to you.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature takes 9d6 negative damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature takes 100 negative damage.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature dies.",
+      "description | <span style='font-size:8px'> Heightened (10th) | <span style='font-size:8px'>  The spell can affect creatures up to 19th level. Increase the damage to 10d6 on a success, and to 115 on a failure."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Meld into Stone",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Earth Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You merge with an adjacent block of stone with enough volume to fit you and your worn and held possessions. You must touch the stone when you Cast the Spell. You can hear, 350 but not see, what’s going on outside the stone, and you can cast spells while in the stone as long as they don’t require line of effect beyond the stone.",
+      "text | <span style='font-size:8px'> Significant physical damage to the stone while you are inside it expels you and deals 10d6 damage to you. Passwall expels you without dealing damage and ends meld into stone.",
+      "text | <span style='font-size:8px'> You can dismiss this spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Mending",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | 10 minutes (S, V)",
+      "property | Range | touch",
+      "property | Targets | non-magical object of light Bulk or less",
+      "rule",
+      "text | <span style='font-size:8px'> You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the broken condition if this repairs it past the item’s Broken Threshold. You can’t replace lost pieces or repair an object that’s been completely destroyed.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  You can target a non-magical object of 1 Bulk or less.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can target a non-magical object of 2 Bulk or less, or a magical object of 1 Bulk or less."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Meteor Swarm",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> You call down four meteors that explode in a fiery blast. Each meteor deals 6d10 bludgeoning damage to any creatures in the 10-foot burst at the center of its area of effect before exploding, dealing 14d6 fire damage to any creatures in its 40-foot burst. The meteors’ central 10-foot bursts can’t overlap, and a creature takes the same amount of fire damage no matter how many overlapping explosions it’s caught in. The saving throw applies to both the bludgeoning and the fire damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) The bludgeoning damage increases by 1d10, and the fire damage increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Moment of Renewal",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Healing Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | up to 6 creatures",
+      "rule",
+      "text | <span style='font-size:8px'> The targets experience a day’s worth of recovery in an instant.",
+      "text | <span style='font-size:8px'> Any detrimental effects that would be gone after 24 hours end, though this doesn’t shorten the duration of any active spells affecting the targets. The targets regain Hit Points and recover from conditions as if they had taken 24 hours of rest, but they do not make their daily preparations again or gain any benefits of rest other than Healing. The targets are then temporarily immune for 1 day."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Monstrosity Form",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You transform into the shape of a legendary monster, assuming a Huge battle form. You must have enough space to expand into or the spell is lost. When you cast this spell, choose phoenix, purple worm, or sea serpent. While in this form, you gain the beast trait (for phoenix) or the animal trait (for purple worm or sea serpent). You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the type of monster you choose:",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  You instead gain AC = 22 + your level, 25 temporary HP, attack modifier +31, increase damage by one damage die, and Athletics +33."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Moon Frenzy",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Morph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | up to 5 willing creatures",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> A feral aspect overcomes the targets, making them tough and savage. Targets gain 5 temporary Hit Points, a +10-foot status bonus to their Speeds, and weakness 5 to silver. They also grow vicious fangs and claws, which are unarmed attacks. The fangs deal 2d8 piercing damage; the claws deal 2d6 slashing damage and have the agile and finesse traits. The targets use their highest weapon or unarmed attack proficiency with these attacks, and if they have weapon specialization or greater weapon specialization, they add this damage as well. On a critical hit with one of these unarmed attacks, the creature struck takes 1d4 persistent bleed damage.",
+      "text | <span style='font-size:8px'> The targets can’t use concentrate actions unless those actions also have the rage trait, with the exception of Seek. A creature can attempt to end the spell’s effect on itself by using a single action, which has the rage trait, to attempt a Will save against your spell DC; on a success, it ends the spell’s effect on itself.",
+      "text | <span style='font-size:8px'> If a target is in the light of a full moon, it also grows by one size if it were Medium or smaller. This increases the reach of a Medium or Tiny creature by 5 feet.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The temporary Hit Points increase to 10, the silver weakness to 10, and the damage dealt by the attacks to three dice.",
+      "description | <span style='font-size:8px'> Heightened (10th) | <span style='font-size:8px'>  The temporary Hit Points increase to 20, the silver weakness to 20, and the damage dealt by the attacks to four dice."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Nature Incarnate",
+    "contents": [
+      "subtitle | Spell 10",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> The primal power of the world flows through you. You transform into an incarnation of nature, either a green man or a kaiju. Your battle form is Medium for a green man or Gargantuan (30-foot-by-30-foot space) for a kaiju. You must have enough space to expand into or the spell is lost. While in this form, you gain the plant trait (for a green man) or the beast trait (for a kaiju). You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the type of incarnation you choose:"
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Nature’s Enmity",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Enchantment",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | up to 5 creatures",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> Animals and plants in the area turn against the targets. Each target suffers from the following effects as long as it remains in the area.",
+      "text | <span style='font-size:8px'> Furthermore, animal or plant creatures become hostile to it, even one with a strong bond to the target, such as an animal companion.",
+      "text | <span style='font-size:8px'> The GM might decide that you can’t subject some creatures, such as an emissary of a nature deity, to the ire of nature."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Negate Aroma",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing creature",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> The target loses its odor, preventing creatures from passively noticing its presence via smell alone, even if the creatures have precise or imprecise scent. A creature attempting a Perception check to Seek with scent and other senses might notice the lack of natural scent. If the target has any abilities that result from its smell, such as an overpowering scent, those abilities are also negated.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The range increases to 30 feet, and you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Neutralize Poison",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Healing Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> You pour healing magic through the target in an attempt to cure one poison afflicting it. Attempt a counteract check against the poison."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Nondetection",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Uncommon Abjuration",
+      "rule",
+      "property | Casting | 10 minutes (M, S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 creature or object",
+      "property | Duration | 8 hours",
+      "rule",
+      "text | <span style='font-size:8px'> You erect protective wards that make the target difficult to detect via magic. Nondetection attempts to counteract all detection, revelation, and scrying divinations made against the target or the target’s gear throughout the duration, counting cantrips as 1st-level spells for this purpose. Successfully counteracting a divination that targets an area or multiple targets negates the effects only for nondetection’s target."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Obscuring Mist",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Conjuration Water",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You call forth a cloud of mist. All creatures within the mist become concealed, and all creatures outside the mist become concealed to creatures within it. You can dismiss the cloud."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Pass Without Trace",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 hour",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You obscure the tracks you leave behind and make it harder for others to find you. The DC of checks to Track you gains a +4 status bonus or is equal to your spell DC, whichever results in a higher DC. You can benefit from only one pass without trace spell at a time.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  The duration increases to 8 hours.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The duration increases to 8 hours. The spell has a range of 20 feet and an area of a 20-foot-emanation, affecting up to 10 creatures of your choice within that area."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Passwall",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Uncommon Conjuration Earth",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You create a visible tunnel through the wall in the chosen area, replacing the area with empty space. If the wall is thicker than 10 feet, the tunnel ends 10 feet in. Even a small layer of metal in the wall prevents this spell from functioning. This spell doesn’t reduce the integrity of the structure. When the spell ends, anyone inside the tunnel is shunted to the nearest exit.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The tunnel can be up to 20 feet deep. The areas of the wall that contain your tunnel’s entrance appear completely normal (unless viewed with true seeing or a similar effect), despite the tunnel’s existence. The tunnel’s entrance functions as a solid wall, but you can specify a password or a trigger, allowing creatures to enter the tunnel freely."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Pest Form",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You transform into a the battle form of a Tiny animal, such as a cat, insect, lizard, or rat. You can decide the specific type of animal (such as a rat or praying mantis), but this has no effect on the form’s Size or statistics. While in this form, you gain the animal trait. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities:",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  You can turn into a flying creature, such as a bird, which grants you a fly Speed of 20 feet."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Phantom Steed",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | 10 minutes (S, V)",
+      "property | Range | 30 feet",
+      "property | Duration | 8 hours",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a Large, magical, equine creature that only you (or another Medium or Small creature you choose) can ride.",
+      "text | <span style='font-size:8px'> The horse is clearly phantasmal in nature, has 20 AC and 10 Hit Points, and automatically fails all saves. If it’s reduced to 0 Hit Points, it disappears and the spell ends. The steed has a Speed of 40 feet and can hold its rider’s body weight, plus 20 Bulk.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The steed has a Speed of 60 feet, can walk on water, and ignores areas of natural difficult terrain.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The steed has a Speed of 60 feet, can walk on water, and ignores areas of natural difficult terrain. It can also air walk but must end its turn on solid ground or fall.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The steed can walk or fly at a Speed of 80 feet, can walk on water, and ignores natural difficult terrain."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Plane Shift",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Uncommon Conjuration Teleportation",
+      "rule",
+      "property | Casting | 10 minutes (focus, M, S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 willing creature, or up to 8 willing creatures joining hands",
+      "rule",
+      "text | <span style='font-size:8px'> You and your allies traverse the barriers between planes of existence. The targets move to another plane, such as the Plane of Fire, the Shadow Plane, or the Abyss. You must have specific knowledge of the destination plane and use a magic tuning fork created from material from that plane as a focus for the spell. While the tuning forks for most prominent planes are uncommon, just like the spell plane shift, more obscure planes and demiplanes often have rare tuning forks.",
+      "text | <span style='font-size:8px'> The spell is highly imprecise, and you appear 1d20Ã—25 miles from the last place one of the targets (of your choice) was located the last time that target traveled to the plane. If it’s the first time traveling to a particular plane for all targets, you appear at a random location on the plane. Plane shift doesn’t provide a means of return travel, though casting plane shift again allows you to return to your previous plane unless there are extenuating circumstances."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Plant Form",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Plant Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Taking inspiration from verdant creatures, you transform into a Large plant battle form. You must have space to expand into or the spell is lost. When you cast this spell, choose arboreal, flytrap, or shambler. You can substitute a similar specific plant to turn into (such as a pitcher plant instead of a flytrap), but this has no effect on the form’s Size or statistics. While in this form, you gain the plant trait. You can dismiss the spell.",
+      "text | <span style='font-size:8px'> You gain the following statistics and abilities regardless of which battle form you choose:",
+      "text | <span style='font-size:8px'> You also gain specific abilities based on the type of plant you choose:",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  Your battle form is Huge, and the reach of your attacks increases by 5 feet. You instead gain AC = 22 + your level, 24 temporary HP, attack modifier +21, damage bonus +16, and Athletics +22."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Polar Ray",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Cold Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 creature or object",
+      "rule",
+      "text | <span style='font-size:8px'> You fire a blue-white ray of freezing air and swirling sleet from your finger that can chill your target to the bones. You must succeed at a spell attack roll to affect the target, which then takes 10d8 cold damage and is drained 2.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 2d8."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Prestidigitation",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 10 feet",
+      "property | Targets | 1 object (cook, lift, or tidy only)",
+      "property | Duration | sustained",
+      "rule",
+      "text | <span style='font-size:8px'> The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the Spell. Each time you Sustain the Spell, you can choose one of four options.",
+      "text | <span style='font-size:8px'> You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.",
+      "text | <span style='font-size:8px'> Prestidigitation can’t deal damage or cause adverse conditions. Any actual change to an object (beyond what is noted above) persists only as long as you Sustain the Spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Primal Herd",
+    "contents": [
+      "subtitle | Spell 10",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | you and up to 5 willing targets",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Summoning the power of the natural world, you transform the targets into a herd of mammoths, and they each assume a Huge battle form. Each target must have enough space to expand into or the spell fails for that target. Each target gains the animal trait. Each target can Dismiss the spell’s effects on themself. Each target gains the following while transformed:",
+      "text | <span style='font-size:8px'> The following unarmed melee attacks, which are the only attacks the target can use. They’re trained with them. When attacking with these attacks, the target uses their attack modifier with the proficiency and item bonuses of their most favorable weapon or unarmed Strike, and the damage is listed for each attack. These attacks are Strength based (for the purpose of the enfeebled condition, for example). If the target’s unarmed attack modifier is higher, they can use it instead.",
+      "text | <span style='font-size:8px'> Melee [one-action] tusk (reach 15 feet), Damage 4d8+19 piercing; Melee [one-action] trunk (agile, reach 15 feet), Damage 4d6+16 bludgeoning; Melee [one-action] foot (agile, reach 15 feet), Damage 4d6+13 bludgeoning."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Primal Phenomenon",
+    "contents": [
+      "subtitle | Spell 10",
+      "subtitle | Divination",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "rule",
+      "text | <span style='font-size:8px'> You request a direct intercession from the natural world.",
+      "text | <span style='font-size:8px'> Nature always refuses unnatural requests and might grant a different request (potentially more powerful or better fitting its character) than the one you asked for. A primal phenomenon spell can do any of the following things.",
+      "text | <span style='font-size:8px'> At the GM’s discretion, you can try to use primal phenomenon to produce greater effects than these, but doing so may be dangerous, or the spell may have only a partial effect."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Produce Flame",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Attack Cantrip Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target’s AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach. On a success, you deal 1d4 fire damage plus your spellcasting ability modifier. On a critical success, the target takes double damage and 1d4 persistent fire damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Punishing Winds",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Air Evocation",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 100 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Violent winds and a powerful downdraft fill the area, forming a cyclone. All flying creatures in the area descend 40 feet. The entire area is greater difficult terrain for Flying creatures, and difficult terrain for creatures on the ground or Climbing. Any creature that ends its turn Flying within the area descends 20 feet. Any creature pushed into a surface by this spell’s winds takes bludgeoning damage as though it had fallen.",
+      "text | <span style='font-size:8px'> The squares at the outside vertical edges of the cylinder prevent creatures from leaving. These squares are greater difficult terrain, and a creature attempting to push through must succeed at an Athletics check or Acrobatics check to Maneuver in Flight against your spell DC to get through. A creature that fails ends its current action but can try again."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Purify Food and Drink",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 cubic foot of contaminated food or water",
+      "rule",
+      "text | <span style='font-size:8px'> You remove toxins and contaminations from food and drink, making them safe to consume. This spell doesn’t prevent future contamination, natural decay, or spoilage. One cubic foot of liquid is roughly 8 gallons."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Purple Worm Sting",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Necromancy Poison",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | 6 rounds. Stage 1 3d6 poison damage and enfeebled 2 (1 round); Stage 2 4d6 poison damage and enfeebled 2 (1 round); Stage 3 6d6 poison damage and enfeebled 2 (1 round).",
+      "rule",
+      "text | <span style='font-size:8px'> You replicate the attack of a deadly purple worm. You deal 6d6 piercing damage to the touched creature and afflict it with purple worm venom. The target must attempt a Fortitude save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes 3d6 poison damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is afflicted with purple worm venom at stage 1.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is afflicted with purple worm venom at stage 2.",
+      "text | <span style='font-size:8px'> Purple Worm Venom (poison); Level 11; Maximum Duration 6 rounds. Stage 1 3d6 poison damage and enfeebled 2 (1 round); Stage 2 4d6 poison damage and enfeebled 2 (1 round); Stage 3 6d6 poison damage and enfeebled 2 (1 round)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Ray of Frost",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Attack Cantrip Cold Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> You blast an icy ray. Make a spell attack roll. The ray deals cold damage equal to 1d4 + your spellcasting ability modifier.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target takes double damage and takes a -10-foot status penalty to its Speeds for 1 round.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes normal damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Read Aura",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Detection Divination",
+      "rule",
+      "property | Casting | 1 minute (S, V)",
+      "property | Range | 30 feet",
+      "property | Targets | 1 object",
+      "rule",
+      "text | <span style='font-size:8px'> You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic.",
+      "text | <span style='font-size:8px'> If the object is illusory, you detect this only if the effect’s level is lower than the level of your read aura spell.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can target up to 10 objects.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  You can target any number of objects."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Regenerate",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Healing Necromancy Positive",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing living creature",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> An infusion of Positive energy grants a creature continuous Healing. The target temporarily gains regeneration 15, which restores 15 Hit Points to it at the start of each of its turns.",
+      "text | <span style='font-size:8px'> While it has regeneration, the target can’t die from damage and its dying value can’t exceed 3, though if its wounded value becomes 4 or higher, it stays unconscious until its wounds are treated. If the target takes acid or fire damage, its regeneration deactivates until after the end of its next turn.",
+      "text | <span style='font-size:8px'> Each time the creature regains Hit Points from regeneration, it also regrows one damaged or ruined organ (if any). During the spell’s duration, the creature can also reattach severed body parts by spending an Interact action to hold the body part to the area it was severed from.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The regeneration increases to 20."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Remake",
+    "contents": [
+      "subtitle | Spell 10",
+      "subtitle | Uncommon Conjuration",
+      "rule",
+      "property | Casting | 1 hour (M, S, V)",
+      "property | Range | 5 feet",
+      "rule",
+      "text | <span style='font-size:8px'> You fully re-create an object from nothing, even if the object was destroyed. To do so, you must be able to picture the object in your mind. Additionally, the material component must be a remnant of the item, no matter how small or insignificant (even a speck of dust that remains from disintegrate is enough). The spell fails if your imagination relied on too much guesswork; if the object would be too large to fit in a 5-foot cube; if the object still exists and you were simply not aware of it; or if the object is an artifact, has a level over 20, or has similar vast magical power.",
+      "text | <span style='font-size:8px'> The item reassembles in perfect condition. Even if your mental image was of a damaged or weathered object, the new one is in this perfected form. If the object was magical, this spell typically restores its constant magical properties, but not any temporary ones, such as charges or one-time uses. An item with charges or uses per day has all of its uses expended when remade, but it replenishes them normally thereafter."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Remove Disease",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Healing Necromancy",
+      "rule",
+      "property | Casting | 10 minutes (M, S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> Healing magic purges disease from a creature’s body. You attempt to counteract one disease afflicting the target."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Remove Fear",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Enchantment",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> With a touch, you ease a creature’s fears. You can attempt to counteract a single fear effect that the target suffers from.",
+      "text | <span style='font-size:8px'> This frees only the target, not any other creatures under the fear effect.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The spell’s range increases to 30 feet, and you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Remove Paralysis",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Healing Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> A surge of energy frees a paralyzed creature. You can attempt to counteract a single effect imposing the paralyzed condition on the target. This does not cure someone who is paralyzed from some natural state or effect, such as paralysis caused by non-magical wounds or toxins.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The spell’s range increases to 30 feet, and you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Resist Energy",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or Sonic damage. The target and its gear gain resistance 5 against the damage type you chose.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The resistance increases to 10, and you can target up to two creatures.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The resistance increases to 15, and you can target up to five creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Restoration",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Healing Necromancy",
+      "rule",
+      "property | Casting | 1 minute (S, V)",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> Restorative magic counters the effects of toxins or conditions that prevent a creature from functioning at its best. When you cast restoration, choose to either reduce a condition or lessen the effect of a toxin. A creature can benefit from only one restoration spell each day, and it can’t benefit from restoration more than once to reduce the stage of the same exposure to a given toxin.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  Add drained to the list of conditions you can reduce. When you lessen a toxin, reduce the stage by two. You also gain a third option that allows you to reduce the target’s doomed value by 1. You can’t use this to reduce a permanent doomed condition.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  As the 4th-level restoration, but you can reduce a permanent doomed condition if you add a spellcasting action and a material component while Casting the Spell, during which you provide 100 gp worth of diamond dust as a cost."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Restore Senses",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Healing Necromancy",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> You attempt to counteract a single effect imposing the blinded or deafened conditions on the target, restoring its vision or hearing. This can counteract both temporary magic and permanent consequences of magic, but it doesn’t cure someone who does not have the sense due to some natural state or effect, such as from birth or from a non-magical wound or toxin.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The spell’s range increases to 30 feet, and you can target up to 10 creatures. You can choose the effect to counteract separately for each selected creature."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Revival",
+    "contents": [
+      "subtitle | Spell 10",
+      "subtitle | Healing Necromancy Positive",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | dead creatures and living creatures of your choice within range",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> A burst of healing energy soothes living creatures and temporarily rouses those recently slain. All living targets regain 10d8+40 Hit Points. In addition, you return any number of dead targets to life temporarily, with the same effects and limitations as raise dead. The raised creatures have a number of temporary Hit Points equal to the Hit Points you gave living creatures, but no normal Hit Points. The raised creatures can’t regain Hit Points or gain temporary Hit Points in other ways, and once revival’s duration ends, they lose all temporary Hit Points and die. Revival can’t resurrect creatures killed by disintegrate or a death effect. It has no effect on undead."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Searing Light",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Attack Evocation Fire Good Light",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> You shoot a blazing ray of Light tinged with holy energy. Make a ranged spell attack. The ray deals 5d6 fire damage. If the target is a fiend or undead, you deal an extra 5d6 good damage.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target takes double fire damage, as well as double good damage if a fiend or undead.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes full damage",
+      "text | <span style='font-size:8px'> If the Light passes through an area of magical darkness or targets a creature affected by magical darkness, searing light attempts to counteract the darkness. If you need to determine whether the Light passes through an area of darkness, draw a line between yourself and the spell’s target",
+      "text | <span style='font-size:8px'> Heightened (+1) The fire damage increases by 2d6, and the good damage against fiends and undead increases by 2d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shape Stone",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Earth Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | cube of stone 10 feet across or smaller",
+      "rule",
+      "text | <span style='font-size:8px'> You shape the stone into a rough shape of your choice. The shaping process is too crude to produce intricate parts, fine details, moving pieces, or the like. Any creatures standing atop the stone when you reshape it must each attempt a Reflex save or Acrobatics check.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature falls prone atop the stone.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature falls off the stone (if applicable) and lands prone."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shape Wood",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Plant Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | an unworked piece of wood up to 20 cubic feet in volume",
+      "rule",
+      "text | <span style='font-size:8px'> You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. You cannot use this spell to enhance the value of the wooden object you are shaping."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shapechange",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 1 minute",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Harnessing your mastery of transformative magic, you take on a mutable form. You transform yourself into any form you could choose with a polymorph spell in your spell repertoire or that you could prepare of 8th level or lower (including any 8th-level or lower heightened versions of spells you know). You choose the type of creature as you Cast the Spell rather than when you prepare it. You can change your form to any other form you could choose with this spell by using a single action, which has the concentrate trait. You can dismiss this spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shatter",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Evocation Sonic",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 unattended object",
+      "rule",
+      "text | <span style='font-size:8px'> A high-frequency sonic attack shatters a nearby object. You deal 2d10 sonic damage to the object, ignoring the object’s Hardness if it is 4 or lower.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d10, and the Hardness the spell ignores increases by 2."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shillelagh",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Plant Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 non-magical club or staff you hold",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> The target grows vines and leaves, brimming with primal energy. The target becomes a +1 Striking weapon while in your hands, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two. Additionally, as long as you are on your home plane, attacks you make with the target against aberrations, extraplanar creatures, and undead increase the number of weapon damage dice to three."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shocking Grasp",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Attack Electricity Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> You shroud your hands in a crackling field of Lightning. Make a melee spell attack roll. On a hit, the target takes 2d12 electricity damage. If the target is wearing metal armor or is made of metal, you gain a +1 circumstance bonus to your attack roll with shocking grasp, and the target also takes 1d4 persistent electricity damage on a hit. On a critical hit, double the initial damage, but not the persistent damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d12, and the persistent electricity damage increases by 1."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Shrink",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 willing creature",
+      "property | Duration | 5 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You warp space to make a creature smaller. The target shrinks to become Tiny in size. Its equipment shrinks with it but returns to its original size if removed. The creature’s reach changes to 0 feet. This spell has no effect on a Tiny creature.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The spell can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Sigil",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature or object",
+      "property | Duration | unlimited (see below)",
+      "rule",
+      "text | <span style='font-size:8px'> You harmlessly place your unique magical sigil, which is about 1 square inch in size, on the targeted creature or object. The mark can be visible or invisible, and you can change it from one state to another by using an Interact action to touch the target. The mark can be scrubbed or scraped off with 5 minutes of work. If it’s on a creature, it fades naturally over the course of a week. The time before the mark fades increases depending on your heightened level.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The sigil instead fades after 1 month.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The sigil instead fades after 1 year.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The sigil never fades."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Slow",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You dilate the flow of time around the target, slowing its actions.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target is slowed 1 for 1 round.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is slowed 1 for 1 minute.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is slowed 2 for 1 minute.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  You can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Solid Fog",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Conjuration Water",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a bank of fog so thick it impedes movement as well as sight. This functions as obscuring mist, except that the area is also difficult terrain. You can dismiss the spell."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Speak with Animals",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Divination",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You can ask questions of, receive answers from, and use the Diplomacy skill with animals. The spell doesn’t make them more friendly than normal. Cunning animals are likely to be terse and evasive, while less intelligent ones often make inane comments."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Speak with Plants",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Divination Plant",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You can ask questions of and receive answers from plants, but the spell doesn’t make them more friendly or intelligent than normal. Most normal plants have a distinctive view of the world around them, so they don’t recognize details about creatures or know anything about the world beyond their immediate vicinity.",
+      "text | <span style='font-size:8px'> Cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Spider Climb",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> Tiny clinging hairs sprout across the creature’s hands and feet, offering purchase on nearly any surface. The target gains a climb Speed equal to its Speed.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The duration increases to 1 hour."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Spider Sting",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Attack Necromancy Poison",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | 4 rounds.",
+      "rule",
+      "text | <span style='font-size:8px'> You magically duplicate a spider’s venomous sting. You deal 1d4 piercing damage to the touched creature and afflict it with spider venom. The target must attempt a Fortitude save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes 1d4 poison damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is afflicted with spider venom at stage 1.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target is afflicted with spider venom at stage 2.",
+      "text | <span style='font-size:8px'> Spider Venom (poison); Level 1; Maximum Duration 4 rounds.",
+      "text | <span style='font-size:8px'> Stage 1 1d4 poison damage and enfeebled 1 (1 round); Stage 2 1d4 poison damage and enfeebled 2 (1 round)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Stabilize",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Healing Necromancy Positive",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 dying creature",
+      "rule",
+      "text | <span style='font-size:8px'> Positive energy shuts death’s door. The target loses the dying condition, though it remains unconscious at 0 Hit Points."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Status",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Detection Divination",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 willing living creature",
+      "property | Duration | 1 day",
+      "rule",
+      "text | <span style='font-size:8px'> As long as you and the target are on the same plane of existence and both alive, you remain aware of its present state. You know the target’s direction from you, distance from you, and any conditions affecting it.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The spell’s range increases to 30 feet, and you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Stinking Cloud",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Conjuration Poison",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Saving Throw | Fortitude",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You create a cloud of putrid mist in the area. The cloud functions as obscuring mist except it sickens creatures that end their turns within the cloud. (The concealed condition is not a poison effect.)",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature is sickened 1.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature is sickened 1 and slowed 1 while in the cloud.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature is sickened 2 and slowed 1 until it leaves the cloud."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Stone Tell",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Uncommon Evocation Earth",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You can ask questions of and receive answers from natural or worked stone. While stone is not intelligent, you speak with the natural spirits of the stone, which have a personality colored by the type of stone, as well as by the type of structure the stone is part of, for worked stone. A stone’s perspective, perception, and knowledge give it a worldview different enough from a human’s that it doesn’t consider the same details important. Stones can mostly answer questions about creatures that touched them in the past and what is concealed beneath or behind them."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Stone To Flesh",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Earth Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | petrified creature or human-size stone object",
+      "rule",
+      "text | <span style='font-size:8px'> Manipulating the fundamental particles of matter, you convert stone into flesh and blood. You restore a petrified creature to its normal state or transform a stone object into a mass of inert flesh (without stone’s Hardness) in roughly the same shape."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Stoneskin",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Abjuration Earth",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 20 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target’s skin hardens like stone. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, stoneskin‘s duration decreases by 1 minute.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The resistance increases to 10.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  The resistance increases to 15.",
+      "description | <span style='font-size:8px'> Heightened (10th) | <span style='font-size:8px'>  The resistance increases to 20."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Storm of Vengeance",
+    "contents": [
+      "subtitle | Spell 9",
+      "subtitle | Air Electricity Evocation",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 800 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> A massive storm cloud forms in the air in a 360-foot burst.",
+      "text | <span style='font-size:8px'> Beneath it, rain begins to fall, and gales impose a -4 circumstance penalty to physical ranged attacks and weapon ranged attacks, and the air in the area becomes greater difficult terrain for flying creatures. When you Cast this spell and the first time each round you Sustain the Spell, you can choose one of the following storm effects. You can’t choose the same effect twice in a row.",
+      "description | <span style='font-size:8px'> Heightened (10th) | <span style='font-size:8px'>  The range increases to 2,200 feet, and the cloud is a 1,000-foot burst."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Summon Animal",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 30 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure an animal to fight for you. You summon a common creature that has the animal trait and whose level is -1.",
+      "text | <span style='font-size:8px'> Heightening the spell increases the maximum level of creature you can summon.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  Level 1.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  Level 2.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  Level 3.",
+      "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  Level 5.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  Level 7.",
+      "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  Level 9.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  Level 11.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  Level 13.",
+      "description | <span style='font-size:8px'> Heightened (10th) | <span style='font-size:8px'>  Level 15."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Summon Elemental",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 30 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure an elemental to fight for you. This works like summon animal, except you summon a common creature that has the elemental trait and whose level is 1 or lower.",
+      "text | <span style='font-size:8px'> Heightened As summon animal."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Summon Fey",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 30 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a fey to fight for you. This works like summon animal, except you summon a common creature that has the fey trait and whose level is -1.",
+      "text | <span style='font-size:8px'> Heightened As summon animal."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Summon Giant",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 30 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a giant to fight for you. This works like summon animal, except you summon a common creature that has the giant trait and whose level is 5 or lower.",
+      "text | <span style='font-size:8px'> Heightened As summon animal."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Summon Plant or Fungus",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 30 feet",
+      "property | Duration | sustained up to 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You conjure a plant or fungus to fight for you. This works like summon animal, except you summon a common creature that has the plant or fungus trait and whose level is -1.",
+      "text | <span style='font-size:8px'> Heightened As summon animal."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Sunburst",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Evocation Fire Light Positive",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 500 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire damage to creatures and objects in the area, plus 8d10 additional Positive damage to undead creatures. Each creature and object in the area must attempt a Reflex save.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature or object is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature or object takes half damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature or object takes full damage.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature or object takes full damage. If it’s a creature, it becomes blinded permanently. If the globe overlaps with an area of magical darkness, sunburst attempts to counteract the darkness effect.",
+      "text | <span style='font-size:8px'> Heightened (+1) The fire damage increases by 1d10, and the Positive damage against undead increases by 1d10."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Tanglefoot",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Conjuration Plant",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | 1 creature",
+      "rule",
+      "text | <span style='font-size:8px'> A vine covered in sticky sap appears from thin air, flicking from your hand and lashing itself to the target. Attempt a spell attack against the target.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target gains the immobilized condition and takes a -10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty and the immobilized condition.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes a -10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape against your spell DC to remove the penalty.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target is unaffected.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  The effects last for 2 rounds.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The effects last for 1 minute."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Tangling Creepers",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Conjuration Plant",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 500 feet",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> Dense, twitching creepers sprout from every surface and fill any bodies of water in the area. Any creature moving on the land, or Climbing or Swimming within the creepers, takes a -10- foot circumstance penalty to its Speeds while in the area. Once per round, you can make a vine lash out from any square within the expanse of creepers by using a single action, which has the concentrate trait. This vine has a 15-foot reach and makes a melee unarmed attack using your spell attack modifier. If the attack succeeds, the vine pulls the target into the creepers and makes it immobilized for 1 round or until the creature Escapes (against your spell DC), whichever comes first."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Tree Shape",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Plant Polymorph Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 8 hours",
+      "property | Duration | 8 hours",
+      "rule",
+      "text | <span style='font-size:8px'> You transform into a Large tree. Perception checks don’t reveal your true nature, but a successful Nature or Survival check against your spell DC reveals that you appear to be a tree that is strangely new to the area. While in tree form, you can observe everything around you, but you can’t act other than to end the spell, and your turn, by using a single action, which has the concentrate trait. As a tree, your AC is 20, and only status bonuses, status penalties, circumstance bonuses, and circumstance penalties affect you. Any successes and critical successes you roll on Reflex saves are failures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Tree Stride",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Uncommon Conjuration Plant Teleportation",
+      "rule",
+      "property | Casting | 1 minute (M, S, V)",
+      "rule",
+      "text | <span style='font-size:8px'> You step into a living tree with a trunk big enough for you to fit inside it and instantly teleport to any tree of the same species within 5 miles that also has a sufficiently large trunk.",
+      "text | <span style='font-size:8px'> Once you enter the first tree, you instantly know the rough locations of other sufficiently large trees of the same species within range and can exit from the original tree, if you prefer.",
+      "text | <span style='font-size:8px'> You can’t carry Extradimensional spaces with you; if you attempt to do so, the spell fails.",
+      "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  The tree you exit can be up to 50 miles away.",
+      "description | <span style='font-size:8px'> Heightened (8th) | <span style='font-size:8px'>  The tree you exit can be up to 500 miles away.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The tree you exit can be anywhere on the same planet."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "True Seeing",
+    "contents": [
+      "subtitle | Spell 6",
+      "subtitle | Divination Revelation",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> You see things within 60 feet as they actually are. The GM rolls a secret counteract check against any illusion or transmutation in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against a polymorph spell, you can see the creature’s true form, but you don’t end the polymorph spell)."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Unfettered Pack",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Abjuration",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Targets | up to 10 creatures",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> You free those who travel alongside you from environmental hindrances. Targets don’t take circumstance penalties to Speed from vegetation, rubble, winds, or other properties of the environment, whether or not the environment is magical, and they ignore difficult terrain from such environmental properties.",
+      "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The targets also ignore greater difficult terrain from environmental properties."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Ventriloquism",
+    "contents": [
+      "subtitle | Spell 1",
+      "subtitle | Auditory Illusion",
+      "rule",
+      "property | Casting | [AA] S, V; Duration 10 minutes",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> Whenever you speak or make any other sound vocally, you can make your vocalization seem to originate from somewhere else within 60 feet, and you can change that apparent location freely as you vocalize. Any creature that hears the sound can attempt to disbelieve your illusion.",
+      "description | <span style='font-size:8px'> Heightened (2nd) | <span style='font-size:8px'>  The spell’s duration increases to 1 hour, and you can also change the tone, quality, and other aspects of your voice. Before a creature can attempt to disbelieve your illusion, it must actively attempt a Perception check or otherwise use actions to interact with the sound."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Vital Beacon",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Healing Necromancy Positive",
+      "rule",
+      "property | Casting | 1 minute (S, V); Duration until your next daily preparations",
+      "property | Duration | until your next daily preparations",
+      "rule",
+      "text | <span style='font-size:8px'> Vitality radiates outward from you, allowing others to supplicate and receive Healing. Once per round, either you or an ally can use an Interact action to supplicate and lay hands upon you to regain Hit Points. Each time the beacon heals someone, it decreases in strength. It restores 4d10 Hit Points to the first creature, 4d8 Hit Points to the second, 4d6 Hit Points to the third, and 4d4 Hit Points to the fourth, after which the spell ends. You can have only one vital beacon active at a time.",
+      "text | <span style='font-size:8px'> Heightened (+1) The beacon restores one additional die of Hit Points each time it heals, using the same die size as the others for that step."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Volcanic Eruption",
+    "contents": [
+      "subtitle | Spell 7",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 120 feet",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> The ground opens up, spraying a column of lava high into the air in a vertical cylinder, dealing 14d6 fire damage to creatures in the area. The lava rapidly cools and encases creatures in the area. A creature encased in rock is clumsy 1 and takes a -10?foot status penalty to its Speeds. All normal terrain is difficult terrain to a flying creature, and such creatures immediately descend 20 feet the moment they’re encased, but they don’t take damage from this fall. A creature encased in rock can attempt to Escape against your spell DC to end the effect. Otherwise, the creature remains encased until it takes a total of 50 damage, freeing it from the rock.",
+      "text | <span style='font-size:8px'> Additionally, creatures in the area and those within 5 feet of the lava column automatically take 3d6 fire damage from the intense heat, regardless of the results of their saving throws.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature takes half damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature takes full damage and is encased.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature takes double damage and is encased.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage in the area increases by 2d6, and the damage from the intense heat increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Wall of Fire",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Evocation Fire",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You raise a blazing wall that burns creatures passing through it. You create either a 5-foot-thick wall of flame in a straight line up to 60 feet long and 10 feet high, or a 5-foot-thick, 10-foot-radius ring of flame with the same height. The wall stands vertically in either form; if you wish, the wall can be of a shorter length or height. Everything on each side of the wall is concealed from creatures on the opposite side. Any creature that crosses the wall or is occupying the wall’s area at the start of its turn takes 4d6 fire damage.",
+      "text | <span style='font-size:8px'> Heightened (+1) The fire damage increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Wall of Ice",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Cold Evocation Water",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You sculpt a barrier of ice that blocks sight and, once shattered, freezes foes. You create either a 1-foot-thick wall of ice in a straight line up to 60 feet long and 10 feet high (the wall doesn’t have to be vertical, but it must be anchored on both sides to a solid surface) or a 1-foot-thick, 10-foot radius hemisphere of ice.",
+      "text | <span style='font-size:8px'> The ice that makes up the wall is opaque. If you wish, the wall can be of a smaller length, height, or radius. You must create the 382 wall in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost.",
+      "text | <span style='font-size:8px'> Each 10-foot-by-10-foot section of the wall has AC 10, Hardness 10, and 40 Hit Points, and it’s immune to critical hits, cold damage, and precision damage. A section also has weakness to fire 15; a section of the wall destroyed by fire melts, evaporating into water and steam. A section destroyed by means other than fire leaves behind a chilling mass of ice that is difficult terrain and deals 2d6 cold damage to any creature passing through it.",
+      "text | <span style='font-size:8px'> Heightened (+2) The Hit Points of each section of the wall increase by 10, and the cold damage dealt to creatures crossing a destroyed section increases by 1d6."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Wall of Stone",
+    "contents": [
+      "subtitle | Spell 5",
+      "subtitle | Conjuration Earth",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "rule",
+      "text | <span style='font-size:8px'> You shape a wall of solid stone. You create a 1-inch-thick wall of stone up to 120 feet long, and 20 feet high. You can shape the wall’s path, placing each 5 feet of the wall on the border between squares. The wall doesn’t need to stand vertically, so you can use it to form a bridge or set of stairs, for example. You must conjure the wall in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost.",
+      "text | <span style='font-size:8px'> Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 14, and 50 Hit Points, and it’s immune to critical hits and precision damage. A destroyed section of the wall can be moved through, but the rubble created from it is difficult terrain.",
+      "text | <span style='font-size:8px'> Heightened (+2) The Hit Points of each section of the wall increase by 15."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Wall of Thorns",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Conjuration Plant",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 60 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> Over the course of a minute, you cause a thick wall of thorny brambles to grow from the ground. You create a 5-foot-thick wall of brambles and thorns in a straight line up to 60 feet long and 10 feet high. You must create the wall in an unbroken open space so its edges don’t pass through any creatures or objects, or the spell is lost. The wall stands vertically. If you wish, the wall can be of a shorter length or height. Everything on each side of the wall has cover from creatures on the opposite side, and the wall’s spaces are difficult terrain. For every move action a creature uses to enter at least one of the wall’s spaces, that creature takes 3d4 piercing damage.",
+      "text | <span style='font-size:8px'> Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 10, and 20 Hit Points. It’s immune to critical hits and precision damage. A destroyed section can be moved through freely.",
+      "text | <span style='font-size:8px'> Heightened (+1) The Hit Points of each section of the wall increase by 5, and the piercing damage increases by 1d4."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Wall of Wind",
+    "contents": [
+      "subtitle | Spell 3",
+      "subtitle | Air Evocation",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 120 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You create a barrier of gusting winds that hinders anything moving through it. The wall of swirling winds is 5 feet thick, 60 feet long, and 30 feet high. The wall stands vertically, but you can shape its path. Though the wall of wind distorts the air, it does not hamper sight. The wall has the following effects.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature can move through the wall normally this turn.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The flying creature can move through the wall this turn, but the wall is difficult terrain.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The wall stops the movement of the flying creature, and any remaining movement from its current action is wasted.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> As failure, and the creature is pushed 10 feet away from the wall."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Water Breathing",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | 1 minute (S, V)",
+      "property | Range | 30 feet",
+      "property | Targets | up to 5 creatures",
+      "property | Duration | 1 hour",
+      "rule",
+      "text | <span style='font-size:8px'> The targets can breathe underwater.",
+      "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The duration increases to 8 hours.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The duration increases to until your next daily preparations."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Water Walk",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Transmutation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | touch",
+      "property | Targets | 1 creature",
+      "property | Duration | 10 minutes",
+      "rule",
+      "text | <span style='font-size:8px'> The target can walk on the surface of water and other liquids without falling through. It can go underwater if it wishes, but in that case it must Swim normally. This spell doesn’t grant the ability to breathe underwater.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The spell’s range increases to 30 feet, the duration increases to 1 hour, and you can target up to 10 creatures."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Weapon Storm",
+    "contents": [
+      "subtitle | Spell 4",
+      "subtitle | Evocation",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> You swing a weapon you’re holding, and the weapon magically multiplies into duplicates that swipe at all creatures in either a cone or an emanation. This flurry deals four dice of damage to creatures in the area. This damage has the same type as the weapon and uses the same die size. Determine the die size as if you were attacking with the weapon; for instance, if you were wielding a two-hand weapon in both hands, you’d use its two-hand damage die.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature is unaffected.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The target takes half damage.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The target takes full damage.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The target takes double damage and is subject to the weapon’s critical specialization effect.",
+      "text | <span style='font-size:8px'> Heightened (+1) Add another damage die."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Web",
+    "contents": [
+      "subtitle | Spell 2",
+      "subtitle | Conjuration",
+      "rule",
+      "property | Casting | [AAA] M, S, V",
+      "property | Range | 30 feet",
+      "property | Duration | 1 minute",
+      "rule",
+      "text | <span style='font-size:8px'> You create a sticky web in the area that impedes creatures’ movement each time they try to move through it. Squares filled with the web are difficult terrain. Each square can be cleared of the web by a single attack or effect that deals at least 5 slashing damage or 1 fire damage. A square has AC 5, and it automatically fails its saving throws.",
+      "text | <span style='font-size:8px'> Each time a creature in the web begins to use a move action or enters the web during a move action, it must attempt an Athletics check or Reflex save against your spell DC to avoid taking a circumstance penalty to its Speeds or becoming immobilized. A creature that gets out of the web ceases to take a circumstance penalty to its Speed from the web.",
+      "bullet | <span style='font-size:8px'> <b>Critical Success</b> The creature is unaffected, and it doesn’t need to attempt further Athletics checks or saving throws against the web this turn. If it used an Athletics check, it clears the web from every square it leaves after leaving the square.",
+      "bullet | <span style='font-size:8px'> <b>Success</b> The creature is unaffected during its action. If it used an Athletics check, it clears the web from every square it leaves after leaving the square.",
+      "bullet | <span style='font-size:8px'> <b>Failure</b> The creature takes a -10-foot circumstance penalty to its Speeds until the start of its next turn.",
+      "bullet | <span style='font-size:8px'> <b>Critical Failure</b> The creature is immobilized until the start of its next turn, after which it takes a -10-foot circumstance penalty to its Speeds for 1 round. It can attempt to Escape to remove its immobilized condition.",
+      "description | <span style='font-size:8px'> Heightened (4th) | <span style='font-size:8px'>  The spell’s area increases to a 20-foot burst, and its range increases to 60 feet."
+    ],
+    "tags": [],
+    "color": ""
+  },
+  {
+    "count": 1,
+    "title": "Wind Walk",
+    "contents": [
+      "subtitle | Spell 8",
+      "subtitle | Air Transmutation",
+      "rule",
+      "property | Casting | 10 minutes (M, S, V)",
+      "property | Range | touch",
+      "property | Targets | you and up to five creatures touched Duration 8 hours",
+      "property | Duration | 8 hours",
+      "rule",
+      "text | <span style='font-size:8px'> When you cast this spell, each target transforms into a vaguely cloud-like form and is picked up by a wind moving in the direction of your choice. You can change the wind’s direction by using a single action, which has the concentrate trait. The wind carries the targets at a Speed of 20 miles per hour, but if any of the targets make an attack, Cast a Spell, come under attack, or otherwise enter encounter mode, the spell ends for all targets just after they roll initiative, and they drift gently to the ground."
+    ],
+    "tags": [],
+    "color": ""
+  }
+]
