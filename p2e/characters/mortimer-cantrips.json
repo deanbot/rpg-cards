@@ -1,0 +1,194 @@
+[
+    {
+        "count": 1,
+        "title": "Daze",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Cantrip Enchantment Mental Nonlethal",
+          "rule",
+          "property | Casting | [AA] S, V",
+          "property | Range | 60 feet",
+          "property | Targets | 1 creature",
+          "property | Saving Throw | Will",
+          "property | Duration | 1 round",
+          "rule",
+          "text | <span style='font-size:8px'> You cloud the target's mind and daze it with a mental jolt.",
+          "text | <span style='font-size:8px'> The jolt deals mental damage equal to your spellcasting ability modifier; the target must attempt a basic Will save. If the target critically fails the save, it is also stunned 1.",
+          "text | <span style='font-size:8px'> Heightened (+2) The damage increases by 1d6."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Electric Arc",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Cantrip Electricity Evocation",
+          "rule",
+          "property | Casting | [AA] S, V",
+          "property | Range | 30 feet",
+          "property | Targets | 1 or 2 creatures",
+          "property | Saving Throw | Reflex",
+          "rule",
+          "text | <span style='font-size:8px'> An arc of Lightning leaps from one target to another. You deal electricity damage equal to 1d4 plus your spellcasting ability modifier.",
+          "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d4."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Mage Hand",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Cantrip Evocation",
+          "rule",
+          "property | Casting | [AA] S, V",
+          "property | Range | 30 feet",
+          "property | Targets | 1 unattended object of light Bulk or less",
+          "property | Duration | sustained",
+          "rule",
+          "text | <span style='font-size:8px'> You create a single magical hand, either invisible or ghostlike, that grasps the target object and moves it slowly up to 20 feet. Because you're levitating the object, you can move it in any direction. When you Sustain the Spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.",
+          "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can target an unattended object with a Bulk of 1 or less.",
+          "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.",
+          "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Read Aura",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Cantrip Detection Divination",
+          "rule",
+          "property | Casting | 1 minute (S, V)",
+          "property | Range | 30 feet",
+          "property | Targets | 1 object",
+          "rule",
+          "text | <span style='font-size:8px'> You focus on the target object, opening your mind to perceive magical auras. When the casting is complete, you know whether that item is magical, and if it is, you learn the school of magic.",
+          "text | <span style='font-size:8px'> If the object is illusory, you detect this only if the effect's level is lower than the level of your read aura spell.",
+          "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  You can target up to 10 objects.",
+          "description | <span style='font-size:8px'> Heightened (6th) | <span style='font-size:8px'>  You can target any number of objects."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Shield",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Abjuration Cantrip Force",
+          "rule",
+          "property | Casting | [A] V; Duration until the start of your next turn",
+          "property | Duration | until the start of your next turn",
+          "rule",
+          "text | <span style='font-size:8px'> You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.",
+          "text | <span style='font-size:8px'> While the spell is in effect, you can use the Shield Block reaction with your magic shield (see the sidebar). The shield has Hardness 5. After you use Shield Block, the spell ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell's reaction against the magic missile spell.",
+          "text | <span style='font-size:8px'> Heightening the spell increases the shield's Hardness.",
+          "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The shield has Hardness 10.",
+          "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The shield has Hardness 15.",
+          "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The shield has Hardness 20.",
+          "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The shield has Hardness 25.",
+          "text | <span style='font-size:8px'> Shield Actions",
+          "text | <span style='font-size:8px'> The shield spell works like a raised shield, and it also gives you the ability to use the Shield Block reaction.",
+          "text | <span style='font-size:8px'> Shield Block [reaction]",
+          "text | <span style='font-size:8px'> Trigger While you have your shield raised, you take damage from a physical attack.",
+          "text | <span style='font-size:8px'> You place your shield to ward off a blow. Your shield prevents you from taking an amount of damage up to the shield's Hardness. You and the shield each take any remaining damage, possibly breaking or destroying the shield."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Telekinetic Projectile",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Attack Cantrip Evocation",
+          "rule",
+          "property | Casting | [AA] S, V",
+          "property | Range | 30 feet",
+          "property | Targets | 1 creature",
+          "rule",
+          "text | <span style='font-size:8px'> You hurl a loose, unattended object that is within range and that has 1 Bulk or less at the target. Make a ranged attack against the target. If you hit, you deal bludgeoning, piercing, or slashing damage—as appropriate for the object you hurled—equal to 1d6 plus your spellcasting ability modifier.",
+          "text | <span style='font-size:8px'> No specific traits or magic properties of the hurled item affect the attack or the damage.",
+          "bullet | <span style='font-size:8px'> <b>Critical Success</b> You deal double damage.",
+          "bullet | <span style='font-size:8px'> <b>Success</b> You deal full damage.",
+          "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d6."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Produce Flame",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Attack Cantrip Evocation Fire",
+          "rule",
+          "property | Casting | [AA] S, V",
+          "property | Range | 30 feet",
+          "property | Targets | 1 creature",
+          "rule",
+          "text | <span style='font-size:8px'> A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach.",
+          "bullet | <span style='font-size:8px'> <b>Critical Success</b> The target takes double damage and 1d4 persistent fire damage.",
+          "bullet | <span style='font-size:8px'> <b>Success</b> You deal 1d4 plus your spellcasting ability modifier fire damage.",
+          "text | <span style='font-size:8px'> Heightened (+1) Increase the damage by 1d4 and the persistent damage on a critical hit by 1d4."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Protect Companion",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Abjuration",
+          "rule",
+          "property | Casting | [A] V",
+          "property | Duration | until the start of your next turn",
+          "rule",
+          "text | <span style='font-size:8px'> You extend your aura, as a magical shield that protects your eidolon or minion. The target gains a +1 circumstance bonus to AC until the start of your next turn. You gain the following reaction; after using the reaction, the spell ends and you can't cast protect companion again for 10 minutes.",
+          "text | <span style='font-size:8px'> Life Block [reaction]",
+          "text | <span style='font-size:8px'> Trigger: The spell's target would take damage; Effect: Reduce the triggering damage by 10, but you lose 5 Hit Points. Even if this reduces the damage to 0, the target still takes any effects that would come with the damage, such as the poison on a viper's fangs Strike.",
+          "text | <span style='font-size:8px'> Heightening (+2) The reaction reduces the damage by another 10, and you lose 5 more Hit Points. If you want to lose fewer Hit Points, you can choose to lower the damage reduction and HP lost to what any lower-level version of the spell could do without lowering the spell's actual level."
+        ],
+        "tags": [],
+        "color": ""
+    },
+    {
+        "count": 1,
+        "title": "Spout",
+        "contents": [
+          "subtitle | Cantrip 1",
+          "subtitle | Cantrip Evocation Water",
+          "rule",
+          "property | Casting | [AA] S, V",
+          "property | Range | 30 feet; Area | a 5-foot cube",
+          "property | Saving Throw | Reflex",
+          "rule",
+          "text | <span style='font-size:8px'> Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take bludgeoning damage equal to 1d4 plus your spellcasting ability modifier, with a basic Reflex saving throw.",
+          "text | <span style='font-size:8px'> You can change this spell's area to a 5-foot burst, provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.",
+          "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d4."
+        ],
+        "tags": [],
+        "color": ""
+    },
+  {
+      "count": 1,
+      "title": "Warp Step",
+      "contents": [
+        "subtitle | Cantril 1",
+        "subtitle | Cantrip Conjuration",
+        "rule",
+        "property | Casting | [AA] S, V",
+        "rule",
+        "text | <span style='font-size:8px'> When you walk, the earth warps beneath your feet - your steps extend, distance contracts, and everything is just a little bit closer. You gain a +5-foot status bonus to your Speed until the end of your turn. You then Stride twice. You can use warp step to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type."
+      ],
+      "tags": [],
+      "color": ""
+  }
+]
