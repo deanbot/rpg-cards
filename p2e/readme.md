@@ -1,6 +1,6 @@
 # Pathfinder 2e RPG Cards
 
-Import character json files in [rpg cards generator](http://crobi.github.io/rpg-cards/generator/generate.html).
+Import character json files in [rpg cards generator](https://rpg-cards.vercel.app/).
 
 ## Acknowledgements
 
