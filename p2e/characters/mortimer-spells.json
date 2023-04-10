@@ -108,10 +108,10 @@
         "property | Saving Throw | Fortitude",
         "rule",
         "text | <span style='font-size:8px'> You unleash a dangerous consonance of reverberating sound, focusing on a single target or many foes.",
-        "text | <span style='font-size:8px'> [A] (V) The spell deals 1d4 sonic dmg to a single enemy, with a basic Fortitude save.",
-        "text | <span style='font-size:8px'> [AA] (S, V) The spell deals 2d4 sonic dmg to all creatures in a 10-foot burst, with a basic Fortitude save.",
-        "text | <span style='font-size:8px'> [AAA] (S, V, M) Deal 2d4 sonic dmg to all creatures in a 30-foot emanation, with a basic Fortitude save.",
-        "text | <span style='font-size:8px'> Height. (+1) Dmg inc by 1d4 for the [AA] or 2d4."
+        "text | <span style='font-size:8px'> [A] (V) The spell deals 1d4 sonic dmg to a single enemy.",
+        "text | <span style='font-size:8px'> [AA] (S, V) The spell deals 2d4 sonic dmg to all creatures in a 10-foot burst.",
+        "text | <span style='font-size:8px'> [AAA] (S, V, M) The spell deals 2d4 sonic dmg to all creatures in a 30-foot emanation.",
+        "text | <span style='font-size:8px'> Height. (+1) The dmg increases by 1d4 for the 1-action version, or 2d4 for the other versions."
       ],
       "tags": [],
       "color": ""
