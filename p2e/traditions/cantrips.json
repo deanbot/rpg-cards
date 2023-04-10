@@ -1,0 +1,51 @@
+[{
+    "count": 1,
+    "title": "Spout",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Cantrip Evocation Water",
+      "rule",
+      "property | Casting | [AA] S, V",
+      "property | Range | 30 feet",
+      "property | Area | a 5-foot cube",
+      "property | Saving Throw | Reflex",
+      "rule",
+      "text | <span style='font-size:8px'> Water blasts upward, coming out of the ground, rising from a pool, or even manifesting from thin air. Any creatures in the area take bludgeoning damage equal to 1d4 plus your spellcasting ability modifier, with a basic Reflex saving throw.",
+      "text | <span style='font-size:8px'> You can change this spell's area to a 5-foot burst, provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.",
+      "text | <span style='font-size:8px'> Heightened (+1) The damage increases by 1d4."
+    ],
+    "tags": [],
+    "color": ""
+},
+{
+    "count": 1,
+    "title": "Shield",
+    "contents": [
+      "subtitle | Cantrip 1",
+      "subtitle | Abjuration Cantrip Force",
+      "rule",
+      "property | Casting | [A] V",
+      "property | Duration | until the start of your next turn",
+      "rule",
+      "text | <span style='font-size:8px'> Raise a magical shield (Raise a Shield action), giving you a +1 circumstance bonus to AC for duration, w/o requiring a hand to use. The shield has Hardness 5. Heightening increases.",
+      "text | <span style='font-size:8px'> While in effect, gain reaction. After using reaction, you can't cast it again for 10 minutes. You can use reaction against the magic missile spell.",
+      "text | <span style='font-size:8px'> <b>Shield Block [reaction]</b> Trigger w/ shield raised, you take dmg from a physical attack. Ward off a blow w/ shield. Prevents you from taking dmg up to Hardness.",
+      "text | <span style='font-size:8px'> See Heightening table (continued)."
+    ],
+    "tags": [],
+    "color": ""
+},
+{
+  "count": 1,
+  "title": "Shield (continued)",
+  "contents": [
+    "text | <span style='font-size:8px'> Heightening the spell increases the shield's Hardness.",
+    "description | <span style='font-size:8px'> Heightened (3rd) | <span style='font-size:8px'>  The shield has Hardness 10.",
+    "description | <span style='font-size:8px'> Heightened (5th) | <span style='font-size:8px'>  The shield has Hardness 15.",
+    "description | <span style='font-size:8px'> Heightened (7th) | <span style='font-size:8px'>  The shield has Hardness 20.",
+    "description | <span style='font-size:8px'> Heightened (9th) | <span style='font-size:8px'>  The shield has Hardness 25."
+  ],
+  "tags": [],
+  "color": ""
+}
+]
